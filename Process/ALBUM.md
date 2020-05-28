@@ -125,7 +125,10 @@ Removed solidity of central pipe.
 The fences on mid are unchanged
 
 # TODO
-Build more accurate blockbullet shape for dome above IT entrance
+Build more accurate blockbullet shape for dome above IT entrance.\
+Fix black blockbullet faces.\
+Make further improvements to playerclip above sewer.\
+Improve blockbullet at corner near choke.
 
 # Sewer
 
@@ -177,7 +180,8 @@ Minor sewer spytech blockbullet improvements.\
 Raised edge of displacement adjacent to sewer slightly.
 
 #### TODO
-Redesign ceiling vent geometry for greater consistency
+Redesign ceiling vent geometry for greater consistency.\
+Improve clipping on left corner of sewer spytech.
 
 # Second
 
@@ -300,7 +304,7 @@ Added cuboid player clipping to the shelves in top IT\
 
 ![20200517232656_1](https://user-images.githubusercontent.com/14262648/82165217-173ea600-98ac-11ea-929d-b3841da95927.jpg)
 
-Added a player clipping ramp to the rock below rollout\
+Added a player clipping ramps and blockbullets to the rock below rollout\
 `setpos -2229.919678 -1817.791016 622.402466;setang 39.424103 -135.423965 0.000000`
 ***
 
@@ -315,8 +319,7 @@ Added blockbullet to short fence between second point and sewer.\
 Replaced pipe player clipping with blockbullets.\
 Added blockbullets to taller fences.\
 Blockbullet added to barrels outside sewer.\
-Improved player clipping around the rock below the second point.\
-Modified choke pipe player clipping shape (probably needs to be fixed).
+Improved player clipping around the rock below the second point.
 
 # IT
 
@@ -443,7 +446,7 @@ Added player clipping to these corners at 3\
 ***
 
 #### Collaide changes (need new screenshots)
-Modified clipping on lobby ledge (need clarification on shape choice).\
+Modified clipping on lobby ledge.\
 Replaced large cyllinder prop collision with blockbullet brushes.
 
 #### HOI changes (need new screenshots)
@@ -553,7 +556,7 @@ Added smooth player clipping to the last spawn ceiling\
 
 #### Collaide changes (need new screenshots)
 Blockbullets added to the grating at last.\
-The ramps on last should be solid underneath for greater splash consistency.
+The ramps on last are now filled underneath for greater splash consistency.
 
 #### HOI changes (need new screenshots)
 Used a taller fence prop to seal off the unreachable last area.\
