@@ -561,4 +561,6 @@ Moved frog above its old position and mirrored it.
 
 #### TODO
 Make the new last ramps look better.\
-Panic room blockbullets.
+Panic room blockbullets.\
+Move spawn chairs closer to the wall.\
+Could improve some texture alignment.
