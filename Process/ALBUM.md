@@ -553,11 +553,12 @@ Added smooth player clipping to the last spawn ceiling\
 
 #### Collaide changes (need new screenshots)
 Blockbullets added to the grating at last.\
-The ramps on last should be solid underneath for greater splash consistency.\
+The ramps on last should be solid underneath for greater splash consistency.
 
 #### HOI changes (need new screenshots)
 Used a taller fence prop to seal off the unreachable last area.\
 Moved frog above its old position and mirrored it.
 
 #### TODO
-Make the new last ramps look better
+Make the new last ramps look better.\
+Panic room blockbullets.
