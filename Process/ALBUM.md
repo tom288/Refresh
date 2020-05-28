@@ -1,3 +1,11 @@
+# General
+Painted many unreachable faces with nodraw.\
+Removed many duplicate brushes.\
+Removed lamp solidity; some in last and top lobby still collide with stickies.
+
+#### TODO
+Make the team colored stripes brushes rather than decals & clip appropriately
+
 # Mid
 
 ![20200517213520_1](https://user-images.githubusercontent.com/14262648/82166109-5f12fc80-98af-11ea-8211-c95ddaa51bc7.jpg)
@@ -108,17 +116,16 @@ Minor improvement to clipping shape of the small left stair\
 `setpos 918.455811 370.262512 641.892151;setang 30.888823 -135.735550 0.000000`
 ***
 
-#### TODO
-Revert crate overhang blockbullet change detailed below
-
 #### Collaide changes (need new screenshots)
 Raised the displacement edges near concrete brushes to match the clipping height.\
-Worse blockbullet shape below the crate overhang - can be shot accidentally.\
 Added blockbullets to mid fences.\
 Removed solidity of central pipe.
 
 #### Unchanged
 The fences on mid are unchanged
+
+# TODO
+Build more accurate blockbullet shape for dome above IT entrance
 
 # Sewer
 
@@ -159,12 +166,18 @@ Added player clipping and blockbullets to the spytech wall in sewer\
 `setpos 39.406620 -1805.607422 739.210571;setang 6.365058 -20.151979 0.000000`
 ***
 
-#### TODO
-Add more blockbullet ramps to the 90 degree corners of the sewer spytech wall
-
 #### Collaide changes (need new screenshots)
 Improved sewer player clipping shapes.\
-Modified wooden sewer ramp blockbullet (unsure why).
+Modified wooden sewer ramp blockbullet.\
+Improved spytech wall clipping.
+
+#### HOI (need new screenshots)
+Aadjusted sewer stair corner clipping by 1 unit.\
+Minor sewer spytech blockbullet improvements.\
+Raised edge of displacement adjacent to sewer slightly.
+
+#### TODO
+Redesign ceiling vent geometry for greater consistency
 
 # Second
 
@@ -292,11 +305,8 @@ Added a player clipping ramp to the rock below rollout\
 ***
 
 #### TODO
-Raise the displacement where it meets the sewer concrete.\
-Finalise the choke pipe clipping shape.\
-Remove top IT blockbullet ceiling and make border only collide with stickies.\
-Same as above for second spawn ceiling.\
-The second spawn has a low doorway because the door is a prop.
+The second spawn ceiling does not need to be blockbulleted.\
+The second spawn still has a low doorway because the door is a prop.
 
 #### Collaide changes (need new screenshots)
 Improved rock player clipping shape below rollout.\
@@ -360,12 +370,14 @@ Replaced player clipping on this doorway to mid with blockbullets instead\
 `setpos -1041.972900 1.620652 660.946411;setang 0.000000 0.000000 0.000000`
 ***
 
-#### TODO
-More spytech clipping ramps needed, just like sewer
-
 #### Collaide changes (need new screenshots)
 Blockbullets added to the IT ceiling.\
-Improved spytech player clipping
+Improved spytech player clipping.\
+Improved spytech clipping.
+
+#### HOI changes (need new screenshots)
+Improved collision with top IT ceiling.\
+Take a better choke pipe screenshot.
 
 # Lobby
 
@@ -430,13 +442,12 @@ Added player clipping to these corners at 3\
 `setpos -2852.593262 -1666.468872 719.251526;setang 17.600006 77.072098 0.000000`
 ***
 
-#### TODO
-Remove lower lobby hiding spot clipping as it makes no sense.\
-Add blockbullet ramps to the boiler ledge too.
-
 #### Collaide changes (need new screenshots)
 Modified clipping on lobby ledge (need clarification on shape choice).\
 Replaced large cyllinder prop collision with blockbullet brushes.
+
+#### HOI changes (need new screenshots)
+Improved clipping below boiler.
 
 # Last
 
@@ -542,20 +553,11 @@ Added smooth player clipping to the last spawn ceiling\
 
 #### Collaide changes (need new screenshots)
 Blockbullets added to the grating at last.\
-Blockbullets added inside the pipe ramps on last.\
-Modified ledge above last point (unsure why).
-
-#### TODO
 The ramps on last should be solid underneath for greater splash consistency.\
-Use a taller fence prop to seal off the unreachable last area.\
-Move frog to a visible unreachable location e.g. above current position
 
-# Global Changes
-
-Painted many unreachable faces with nodraw.\
-Removed many duplicate brushes.\
-Removed lamp solidity; some in last and top lobby still collide with stickies.
+#### HOI changes (need new screenshots)
+Used a taller fence prop to seal off the unreachable last area.\
+Moved frog above its old position and mirrored it.
 
 #### TODO
-
-Replace invisible displacements which have been deleted by Collaide
+Make the new last ramps look better
