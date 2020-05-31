@@ -3,7 +3,7 @@ Painted many unreachable faces with nodraw.\
 Removed many duplicate brushes.\
 Removed lamp solidity; some in last and top lobby still collide with stickies.
 
-#### TODO
+#### General TODO
 Make the team colored stripes brushes rather than decals & clip appropriately
 
 # Mid
@@ -124,11 +124,11 @@ Removed solidity of central pipe.
 #### Unchanged
 The fences on mid are unchanged
 
-# TODO
+#### Mid TODO
 Build more accurate blockbullet shape for dome above IT entrance.\
-Fix black blockbullet faces.\
-Make further improvements to playerclip above sewer.\
-Improve blockbullet at corner near choke.
+Fix black concrete brush faces.\
+Made further improvements to playerclip above sewer.\
+Improved blockbullet geometry at corner near choke.
 
 # Sewer
 
@@ -176,12 +176,11 @@ Improved spytech wall clipping.
 
 #### HOI (need new screenshots)
 Aadjusted sewer stair corner clipping by 1 unit.\
-Minor sewer spytech blockbullet improvements.\
+Improved sewer spytech clipping and blockbullets.\
 Raised edge of displacement adjacent to sewer slightly.
 
-#### TODO
-Redesign ceiling vent geometry for greater consistency.\
-Improve clipping on left corner of sewer spytech.
+#### Sewer TODO
+Redesign ceiling vent geometry for greater consistency
 
 # Second
 
@@ -308,10 +307,6 @@ Added a player clipping ramps and blockbullets to the rock below rollout\
 `setpos -2229.919678 -1817.791016 622.402466;setang 39.424103 -135.423965 0.000000`
 ***
 
-#### TODO
-The second spawn ceiling does not need to be blockbulleted.\
-The second spawn still has a low doorway because the door is a prop.
-
 #### Collaide changes (need new screenshots)
 Improved rock player clipping shape below rollout.\
 Added blockbullet to rock below rollout.\
@@ -320,6 +315,14 @@ Replaced pipe player clipping with blockbullets.\
 Added blockbullets to taller fences.\
 Blockbullet added to barrels outside sewer.\
 Improved player clipping around the rock below the second point.
+
+#### HOI changes (need new screenshots)
+Forgot to take a screenshot of the red side tower no longer being blue.\
+Replaced the radar dish on blue side with a blue tower to match red side.
+
+#### Second TODO
+The second spawn ceiling does not need to be blockbulleted.\
+The second spawn still has a low doorway because the door is a prop.
 
 # IT
 
@@ -380,7 +383,8 @@ Improved spytech clipping.
 
 #### HOI changes (need new screenshots)
 Improved collision with top IT ceiling.\
-Take a better choke pipe screenshot.
+Take a better choke pipe screenshot.\
+Improved IT spytech blockbullets.
 
 # Lobby
 
@@ -450,7 +454,7 @@ Modified clipping on lobby ledge.\
 Replaced large cyllinder prop collision with blockbullet brushes.
 
 #### HOI changes (need new screenshots)
-Improved clipping below boiler.
+Improved clipping below boiler
 
 # Last
 
@@ -560,10 +564,10 @@ The ramps on last are now filled underneath for greater splash consistency.
 
 #### HOI changes (need new screenshots)
 Used a taller fence prop to seal off the unreachable last area.\
-Moved frog above its old position and mirrored it.
+Moved frog above its old position and mirrored it.\
+Detailed Collaide's last ramps.\
+Fixed texture alignment at parts of last.\
+Improved panic room clipping.
 
-#### TODO
-Make the new last ramps look better.\
-Panic room blockbullets.\
-Move spawn chairs closer to the wall.\
-Could improve some texture alignment.
+#### Last TODO
+Could move spawn chairs closer to the wall
