@@ -122,16 +122,16 @@ Minor improvement to clipping shape of the small left stair\
 
 #### Collaide changes (need new screenshots)
 ![20200603150512_1](https://user-images.githubusercontent.com/20628572/83641270-97a01f00-a5ad-11ea-9ffa-fd54f594a8c0.jpg)
-Added blockbullets to fall fencing on mid, same as second.\
+Added blockbullets to fall fencing on mid, same as second\
 
 ![20200603151257_1](https://user-images.githubusercontent.com/20628572/83641327-a8e92b80-a5ad-11ea-8a19-f93ec7f0b817.jpg)
-Raised the displacement edges near concrete brushes to match the clipping height.\
+Raised the displacement edges near concrete brushes to match the clipping height\
 
 ![20200602175654_1](https://user-images.githubusercontent.com/20628572/83627826-d88d3900-a597-11ea-9307-5a09c183a3c9.jpg)
-Added blockbullets to the central pipe & added grating around the support beams.\
+Added blockbullets to the central pipe & added grating around the support beams\
 
 ![20200603150536_1](https://user-images.githubusercontent.com/20628572/83641414-c918ea80-a5ad-11ea-8f0f-a8564dc16f7b.jpg)
-Added playerclip next to fence on barrels to prevent randomly stopping when jumping.
+Added playerclip next to fence on barrels to prevent randomly stopping when jumping\
 
 #### Unchanged
 
@@ -184,10 +184,10 @@ Added player clipping and blockbullets to the spytech wall in sewer\
 #### Collaide changes (need new screenshots)
 
 ![20200603151337_1](https://user-images.githubusercontent.com/20628572/83642064-a20ee880-a5ae-11ea-8247-92d856c4561d.jpg)
-Improved sewer player clipping shapes. (spytech wall & around vents)\
+Improved sewer player clipping shapes. (spytech wall & around vents) \
 
 ![20200602181432_1](https://user-images.githubusercontent.com/20628572/83641807-52c8b800-a5ae-11ea-88df-b5d594a21d71.jpg)
-Modified wooden sewer ramp blockbullet.
+Modified wooden sewer ramp blockbullet. \
 
 #### HOI (need new screenshots)
 Aadjusted sewer stair corner clipping by 1 unit.\
