@@ -126,7 +126,7 @@ Raised the displacement edges near concrete brushes to match the clipping height
 Added blockbullets to the central pipe & added grating around the support beams.\
 
 #### Unchanged
-The fences on mid are unchanged
+
 
 #### Mid TODO
 Build more accurate blockbullet shape for dome above IT entrance.\
