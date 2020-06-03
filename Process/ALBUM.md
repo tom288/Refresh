@@ -8,7 +8,7 @@ Make the team colored stripes brushes rather than decals & clip appropriately
 
 # Mid
 
-![20200517213520_1](https://user-images.githubusercontent.com/14262648/82166109-5f12fc80-98af-11ea-8211-c95ddaa51bc7.jpg)
+![20200602174356_1](https://user-images.githubusercontent.com/20628572/83627629-82b89100-a597-11ea-9e22-1cf184589e75.jpg)
 
 Added player clipping above the doorway from mid to sewer\
 `setpos 289.625488 -762.043457 748.187256;setang 26.135984 -129.878815 0.000000`
@@ -117,9 +117,13 @@ Minor improvement to clipping shape of the small left stair\
 ***
 
 #### Collaide changes (need new screenshots)
+![20200602174558_1](https://user-images.githubusercontent.com/20628572/83627752-ba273d80-a597-11ea-9bb5-89dd8c709885.jpg)
+Added blockbullets to fall fencing on mid, same as second.\
+
 Raised the displacement edges near concrete brushes to match the clipping height.\
-Added blockbullets to mid fences.\
-Removed solidity of central pipe.
+
+![20200602175654_1](https://user-images.githubusercontent.com/20628572/83627826-d88d3900-a597-11ea-9307-5a09c183a3c9.jpg)
+Added blockbullets to the central pipe & added grating around the support beams.\
 
 #### Unchanged
 The fences on mid are unchanged
@@ -308,13 +312,25 @@ Added a player clipping ramps and blockbullets to the rock below rollout\
 ***
 
 #### Collaide changes (need new screenshots)
-Improved rock player clipping shape below rollout.\
-Added blockbullet to rock below rollout.\
-Added blockbullet to short fence between second point and sewer.\
-Replaced pipe player clipping with blockbullets.\
-Added blockbullets to taller fences.\
+
+![20200602174424_1](https://user-images.githubusercontent.com/20628572/83626463-bdb9c500-a595-11ea-80dd-56824be8fdd9.jpg)
+Improved clipping of rock below rollout & added blockbullet.\
+
+![20200602174558_1](https://user-images.githubusercontent.com/20628572/83625910-f6a56a00-a594-11ea-8e7b-89a2e273fb26.jpg)
+![20200602174529_1](https://user-images.githubusercontent.com/20628572/83626208-5f8ce200-a595-11ea-91bf-0f6f12bcb5ab.jpg)
+Added blockbullets to all fencing on second.\
+
+![20200602174529_1](https://user-images.githubusercontent.com/20628572/83626523-d4601c00-a595-11ea-8e5a-6efcd1d07281.jpg)
+Centered the small fence on second.\
+
+![20200602175129_1](https://user-images.githubusercontent.com/20628572/83626575-e772ec00-a595-11ea-8b13-a094cdea77f3.jpg)
+Replaced pipe player clipping solid geometry.\
+
+![20200602175155_1](https://user-images.githubusercontent.com/20628572/83626641-040f2400-a596-11ea-971b-ecddf3fcd96d.jpg)
 Blockbullet added to barrels outside sewer.\
-Improved player clipping around the rock below the second point.
+
+![20200602175152_1](https://user-images.githubusercontent.com/20628572/83626770-36b91c80-a596-11ea-8035-86c328b7bb13.jpg)
+Mirrored the rock prop under spire, as well as added blockbullets to it.\
 
 #### HOI changes (need new screenshots)
 Forgot to take a screenshot of the red side tower no longer being blue.\
@@ -377,9 +393,11 @@ Replaced player clipping on this doorway to mid with blockbullets instead\
 ***
 
 #### Collaide changes (need new screenshots)
-Blockbullets added to the IT ceiling.\
-Improved spytech player clipping.\
-Improved spytech clipping.
+
+Blockbullet added to cover vents in ceiling..\
+
+![20200602174440_1](https://user-images.githubusercontent.com/20628572/83627556-64529580-a597-11ea-9827-20929702a5ad.jpg)
+Improved spytech player clipping & blockbullets.\
 
 #### HOI changes (need new screenshots)
 Improved collision with top IT ceiling.\
@@ -450,8 +468,9 @@ Added player clipping to these corners at 3\
 ***
 
 #### Collaide changes (need new screenshots)
-Modified clipping on lobby ledge.\
-Replaced large cyllinder prop collision with blockbullet brushes.
+![20200602174320_1](https://user-images.githubusercontent.com/20628572/83627419-2c4b5280-a597-11ea-9160-a1d4a06a3600.jpg)
+Added clipping on top of blockbullets on lobby ledge.\
+Replaced large cyllinder prop collision with blockbullet brushes, and added clipping around it.\
 
 #### HOI changes (need new screenshots)
 Improved clipping below boiler
@@ -559,14 +578,22 @@ Added smooth player clipping to the last spawn ceiling\
 ***
 
 #### Collaide changes (need new screenshots)
+
+![20200602174332_1](https://user-images.githubusercontent.com/20628572/83626872-5fd9ad00-a596-11ea-8685-fcf383bef588.jpg)
+![20200602174338_1](https://user-images.githubusercontent.com/20628572/83626875-60724380-a596-11ea-8a56-fc83157b749e.jpg)
+Rearranged props on both sides of spawn to be better to move around.\
+
 Blockbullets added to the grating at last.\
-The ramps on last are now filled underneath for greater splash consistency.
+
+![20200602175348_1](https://user-images.githubusercontent.com/20628572/83626968-87c91080-a596-11ea-8249-d0ec4369ecb1.jpg)
+Clipping added to the ceiling of last, to prevent getting stuck on the window beams.\
 
 #### HOI changes (need new screenshots)
 Used a taller fence prop to seal off the unreachable last area.\
 Moved frog above its old position and mirrored it.\
 Detailed Collaide's last ramps.\
 Fixed texture alignment at parts of last.\
+The ramps on last are now filled.\
 Improved panic room clipping.
 
 #### Last TODO
