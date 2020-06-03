@@ -633,12 +633,23 @@ Tucked spawn room chairs closer to the wall
 Added blockbullets to this window near 5
 ***
 
-Gaps under the last ramps are now filled with concrete.\
-Transparent texture replaced with grating to better represent reality.
+![20200603231140_1](https://user-images.githubusercontent.com/14262648/83694340-bfb07200-a5ef-11ea-8b73-e43fb0942a1c.jpg)
+
+Gaps under the last ramps are now filled with concrete\
+`setpos -3069.941650 -1012.255798 1177.600220;setang 47.815884 -150.039505 0.000000`
+***
+
+![20200603231335_1](https://user-images.githubusercontent.com/14262648/83694412-e5d61200-a5ef-11ea-84d5-aaa6334eea44.jpg)
+
+Transparent texture replaced with grating to better represent reality\
+`setpos -3456.190430 -2176.921387 876.200562;setang -1.904120 91.600304 0.000000`
+***
+
+![20200603231621_1](https://user-images.githubusercontent.com/14262648/83694618-46fde580-a5f0-11ea-8ad7-ed615d34a9ca.jpg)
+Used a taller fence prop to seal off the unreachable last area\
+`setpos 3529.352295 448.395416 743.286804;setang 18.951906 -131.391510 0.000000`
 
 #### HOI changes (need new screenshots)
-Used a taller fence prop to seal off the unreachable last area.\
 Moved frog above its old position and mirrored it.\
-Detailed Collaide's last ramps.\
 Fixed texture alignment at parts of last.\
 Improved panic room clipping.
