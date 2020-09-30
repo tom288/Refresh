@@ -199,11 +199,6 @@ Improved sewer player clipping shapes. (spytech wall & around vents)
 Modified wooden sewer ramp blockbullet
 ***
 
-#### HOI (need new screenshots)
-Adjusted sewer stair corner clipping by 1 unit.\
-Improved sewer spytech clipping and blockbullets.\
-Raised edge of displacement adjacent to sewer slightly.
-
 #### Sewer TODO
 Redesign ceiling vent geometry for greater collision consistency
 
@@ -232,6 +227,7 @@ Minor improvements to the stair clipping shapes\
 ![20200517223943_1](https://user-images.githubusercontent.com/14262648/82165449-00e51a00-98ad-11ea-91e9-4cd43975dc44.jpg)
 
 Added player clipping where the concrete outside sewer meets the displacements\
+Raised edge of displacement adjacent to sewer slightly.\
 `setpos 803.634399 2464.631836 637.689941;setang 26.953979 -156.832001 0.000000`
 ***
 
@@ -287,7 +283,6 @@ Removed collision with the beams above the second entrance to lower IT\
 ![20200517231021_1](https://user-images.githubusercontent.com/14262648/82165308-7c929700-98ac-11ea-927c-c0c95144eff6.jpg)
 
 Changed the large radio tower prop on red second to be red instead of blue.\
-Replaced the radar dish on blue side with a blue tower to match red side.\
 `setpos 351.982056 2056.215332 1435.144287;setang -12.320033 62.392227 0.000000`
 ***
 
@@ -406,7 +401,7 @@ Removed collision with both of the fake doors in IT\
 
 ![20200517233450_1](https://user-images.githubusercontent.com/14262648/82165175-e8283480-98ab-11ea-93b0-61b24e82bdb7.jpg)
 
-Added blockbullet ramps to the corners in top IT\
+Added blockbullets to the corners and ceiling of top IT\
 `setpos -1423.596191 -1273.849976 796.640259;setang 13.728077 136.031754 0.000000`
 ***
 
@@ -450,11 +445,6 @@ Blockbullet added to cover vents in ceiling
 Improved spytech player clipping & blockbullets
 ***
 
-#### HOI changes (need new screenshots)
-Improved collision with top IT ceiling.\
-Take a better choke pipe screenshot.\
-Improved IT spytech blockbullets.
-
 # Lobby
 
 ![20200518021710_1](https://user-images.githubusercontent.com/14262648/82166416-42c38f80-98b0-11ea-8ed8-bb7132c6e70e.jpg)
@@ -496,7 +486,8 @@ Added blockbullets to these tiny corners at 5\
 
 ![20200518021911_1](https://user-images.githubusercontent.com/14262648/82166363-21fb3a00-98b0-11ea-8ada-7021bcfe5b21.jpg)
 
-Added blockbullets to the boiler ceiling area in lobby\
+Added blockbullets to the boiler ceiling area in lobby.\
+Added blockbullet ramps below boiler.\
 `setpos -2625.350830 -1291.532837 657.751831;setang -49.719067 179.604233 0.000000`
 ***
 
@@ -527,9 +518,6 @@ Added clipping to lobby ledge
 
 Replaced large cyllinder prop collision with blockbullet brushes, and added clipping around it
 ***
-
-#### HOI changes (need new screenshots)
-Improved clipping below boiler
 
 # Last
 
