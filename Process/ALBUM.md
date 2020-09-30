@@ -1,7 +1,7 @@
 # General
 Painted many unreachable faces with nodraw.\
 Removed many duplicate brushes.\
-Removed lamp solidity; some in last and top lobby still collide with stickies.\
+Removed lamp solidity; some in last and top lobby still collide with stickies.
 
 ![20200603150821_1](https://user-images.githubusercontent.com/20628572/83641540-f9608900-a5ad-11ea-91c5-868f60b55548.jpg)
 
@@ -83,6 +83,11 @@ Added blockbullets to this small corner at choke\
 
 Added blockbullets to the mid barrels for greater projectile consistency\
 `setpos 635.592163 -170.310486 694.992676;setang 51.832024 -142.333038 0.000000`
+***
+
+![20200930105904_1](https://user-images.githubusercontent.com/14262648/94671984-81f8f700-030c-11eb-93dc-cc4ea78e3c7f.jpg)
+
+Added props to the corner beside the barrels on mid
 ***
 
 ![20200517215744_1](https://user-images.githubusercontent.com/14262648/82165965-eb70ef80-98ae-11ea-8f29-e86ea40a6ea2.jpg)
@@ -249,7 +254,7 @@ Added blockbullets to the ceiling of the second spawn\
 `setpos 2326.911621 2722.544189 730.722717;setang -26.902609 121.359802 0.000000`
 ***
 
-![20200517225953_1](https://user-images.githubusercontent.com/14262648/82165393-bfed0580-98ac-11ea-9e02-8ef3e450db0b.jpg)
+![20200930105745_1](https://user-images.githubusercontent.com/14262648/94671973-7e657000-030c-11eb-8579-f6120d9c2d17.jpg)
 
 Improvements to the choke pipe player clipping shape on second\
 `setpos 931.478638 1779.087402 734.118042;setang 35.225426 -53.488400 0.000000`
@@ -322,15 +327,10 @@ Added cuboid player clipping to the shelves in top IT\
 `setpos -1791.991699 -1427.868896 856.240784;setang 30.183996 122.670967 0.000000`
 ***
 
-![20200517232656_1](https://user-images.githubusercontent.com/14262648/82165217-173ea600-98ac-11ea-929d-b3841da95927.jpg)
+![20200930105949_1](https://user-images.githubusercontent.com/14262648/94671990-86251480-030c-11eb-89f5-74ff9eebf1b8.jpg)
 
 Added a player clipping ramps and blockbullets to the rock below rollout\
 `setpos -2229.919678 -1817.791016 622.402466;setang 39.424103 -135.423965 0.000000`
-***
-
-![20200602174424_1](https://user-images.githubusercontent.com/20628572/83626463-bdb9c500-a595-11ea-80dd-56824be8fdd9.jpg)
-
-Improved clipping of rock below rollout & added blockbullet
 ***
 
 ![20200602174558_1](https://user-images.githubusercontent.com/20628572/83625910-f6a56a00-a594-11ea-8e7b-89a2e273fb26.jpg)
@@ -354,7 +354,29 @@ Blockbullet added to barrels outside sewer
 ***
 
 ![20200602175152_1](https://user-images.githubusercontent.com/20628572/83626770-36b91c80-a596-11ea-8035-86c328b7bb13.jpg)
+
 Mirrored the rock prop under spire, as well as added blockbullets to it
+***
+
+![20200930105613_1](https://user-images.githubusercontent.com/14262648/94671963-7ad1e900-030c-11eb-909d-4ac0f3cb7a76.jpg)
+
+Prevented the rock besides the second point from poking through the grounding.\
+Improved the blockbullet shape behind the rock.
+***
+
+![20200930105644_1](https://user-images.githubusercontent.com/14262648/94671970-7c9bac80-030c-11eb-8f16-1e93345cd06c.jpg)
+
+Fixed see-through gaps around some of the windows on second
+***
+
+![20200930105824_1](https://user-images.githubusercontent.com/14262648/94671976-802f3380-030c-11eb-8669-217c79ecca8d.jpg)
+
+Removed solidity of the tiny light above lower lobby
+***
+
+![20200930105939_1](https://user-images.githubusercontent.com/14262648/94671988-83c2ba80-030c-11eb-97c2-2e91de53c5ae.jpg)
+
+Moved the pallet by forwards slightly to prevent it from intersecting with the concrete
 ***
 
 #### Second TODO
@@ -646,10 +668,15 @@ Transparent texture replaced with grating to better represent reality\
 ***
 
 ![20200603231621_1](https://user-images.githubusercontent.com/14262648/83694618-46fde580-a5f0-11ea-8ad7-ed615d34a9ca.jpg)
+
 Used a taller fence prop to seal off the unreachable last area\
 `setpos 3529.352295 448.395416 743.286804;setang 18.951906 -131.391510 0.000000`
+***
 
-#### HOI changes (need new screenshots)
-Moved frog above its old position and mirrored it.\
-Fixed texture alignment at parts of last.\
-Improved panic room clipping.
+![20200930105528_1](https://user-images.githubusercontent.com/14262648/94671959-79a0bc00-030c-11eb-9954-1a808ae49014.jpg)
+
+Made the white pipe thing behind the last point slightly shorter.\
+Significantly improved the clipping of the white pipe thing.\
+Improved player clipping and blockbullets to the corners of panic room.\
+Several texture alignment fixes.\
+Moved and mirrored the out-of-bounds frog.
