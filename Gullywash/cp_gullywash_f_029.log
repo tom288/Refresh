@@ -1,0 +1,242 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Pelle\Desktop\GitHub Stuff\Refresh\Gullywash\cp_gullywash_f_029.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/cp_gullywash_f_029/nature/blendgroundtograss001_wvt_patch
+Patching WVT material: maps/cp_gullywash_f_029/nature/blendgroundtograss007_nodetail_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 3790 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+Warning: area portal has 512 verts. Could be a vbsp bug.
+Warning: area portal has 512 verts. Could be a vbsp bug.
+Warning: area portal has 512 verts. Could be a vbsp bug.
+Warning: area portal has 512 verts. Could be a vbsp bug.
+done (1)
+writing C:\Users\Pelle\Desktop\GitHub Stuff\Refresh\Gullywash\cp_gullywash_f_029.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (7966336 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 6894 texinfos to 3278
+Reduced 198 texdatas to 174 (8340 bytes to 6990)
+Writing C:\Users\Pelle\Desktop\GitHub Stuff\Refresh\Gullywash\cp_gullywash_f_029.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Pelle\Desktop\GitHub Stuff\Refresh\Gullywash\cp_gullywash_f_029.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 49766, actual size 36822
+10 seconds elapsed
+
+
+
+12 threads
+reading c:\users\pelle\desktop\github stuff\refresh\gullywash\cp_gullywash_f_029.bsp
+reading c:\users\pelle\desktop\github stuff\refresh\gullywash\cp_gullywash_f_029.prt
+4799 portalclusters
+14393 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 20376 visible clusters (0.97%)
+Total clusters visible: 2095817
+Average clusters visible: 436
+Building PAS...
+Average clusters audible: 1590
+visdatasize:2200441  compressed from 5758800
+writing c:\users\pelle\desktop\github stuff\refresh\gullywash\cp_gullywash_f_029.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\pelle\desktop\github stuff\refresh\gullywash\cp_gullywash_f_029.bsp', but we don't own that location. Allowing.
+36 minutes, 9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\pelle\desktop\github stuff\refresh\gullywash\cp_gullywash_f_029.bsp
+18421 faces
+2 degenerate faces
+1868202 square feet [269021088.00 square inches]
+646 Displacements
+482810 Square Feet [69524744.00 Square Inches]
+18419 patches before subdivision
+236243 patches after subdivision
+268 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 29123659, max 1050
+transfer lists: 222.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #92 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #93 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #94 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #95 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #96 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #97 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #98 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #99 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #100 added RGB(nan, nan, nan)
+Build Patch/Sample Hash Table(s).....Done<0.0671 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 140/1024         6720/49152    (13.7%) 
+brushes               4669/8192        56028/98304    (57.0%) 
+brushsides           32598/65536      260784/524288   (49.7%) 
+planes               20812/65536      416240/1310720  (31.8%) 
+vertexes             38388/65536      460656/786432   (58.6%) 
+nodes                11064/65536      354048/2097152  (16.9%) 
+texinfos              3278/12288      236016/884736   (26.7%) 
+texdata                174/2048         5568/65536    ( 8.5%) 
+dispinfos              646/0          113696/0        ( 0.0%) 
+disp_verts           36246/0          724920/0        ( 0.0%) 
+disp_tris            55616/0          111232/0        ( 0.0%) 
+disp_lmsamples     1320752/0         1320752/0        ( 0.0%) 
+faces                18421/65536     1031576/3670016  (28.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             9997/65536      559832/3670016  (15.3%) 
+leaves               11205/65536      358560/2097152  (17.1%) 
+leaffaces            25347/65536       50694/131072   (38.7%) 
+leafbrushes          16816/65536       33632/131072   (25.7%) 
+areas                   31/256           248/2048     (12.1%) 
+surfedges           132072/512000     528288/2048000  (25.8%) 
+edges                83991/256000     335964/1024000  (32.8%) 
+LDR worldlights        268/8192        23584/720896   ( 3.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata           11/32768         132/393216   ( 0.0%) 
+waterstrips           2848/32768       28480/327680   ( 8.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         52674/65536      105348/131072   (80.4%) VERY FULL!
+cubemapsamples          68/1024         1088/16384    ( 6.6%) 
+overlays               186/512         65472/180224   (36.3%) 
+LDR lightdata         [variable]    11969624/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2200441/16777216 (13.1%) 
+entdata               [variable]      254230/393216   (64.7%) 
+LDR ambient table    11205/65536       44820/262144   (17.1%) 
+HDR ambient table    11205/65536       44820/262144   (17.1%) 
+LDR leaf ambient     37765/65536     1057420/1835008  (57.6%) 
+HDR leaf ambient     11205/65536      313740/1835008  (17.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/2267872  ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/109326   ( 0.0%) 
+pakfile               [variable]     4605396/0        ( 0.0%) 
+physics               [variable]     7966336/4194304  (189.9%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 55145
+Writing c:\users\pelle\desktop\github stuff\refresh\gullywash\cp_gullywash_f_029.bsp
+8 minutes, 3 seconds elapsed
