@@ -3,7 +3,7 @@ TF2 competitive maps for the Refresh: mapping project
 
 ### Process - [TF2Maps](https://tf2maps.net/downloads/refresh-cp_process.9042/) - [TFTV](https://www.teamfortress.tv/55063/refresh-cp-process) - [Album](https://github.com/tom288/Refresh/tree/master/Process/ALBUM.md)
 
-### Gullywash - Planned
+### Gullywash - [TF2Maps](https://tf2maps.net/downloads/refresh-cp_gullywash.10615/) - [TFTV](https://www.teamfortress.tv/57897/refresh-cp-gullywash)
 
 ## Tools
 Compiling: [Compilepal](https://github.com/ruarai/CompilePal/releases)\
