@@ -1,12 +1,20 @@
-+ Lighting 
+Lighting 
  + HDR has been lowered slightly
 
 Clipping
- + Most props that created perches have either been deleted, clipped or 
+ + Most props/brushes that created perches or movement issues have either been deleted, clipped or 
    had their collisions disabled.
 
 Mid
  + Gaps on side of the point have been filled with a block bullets.
  + Little pole like object that sticks out on the ramp to the point 
    has been removed and the ramp has been extended to the shipping crate.
- 
+ + Wooden platform connecting shipping crate to balc has been smoothed and 
+
+Courtyard
+ + Sewed displacement 
+ + Filled hole in truck
+ + Filled hole in wall next to truck
+
+Balc
+ + Cleaned up
