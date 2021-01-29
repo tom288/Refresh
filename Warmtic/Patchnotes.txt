@@ -1,0 +1,12 @@
++ Lighting 
+ + HDR has been lowered slightly
+
+Clipping
+ + Most props that created perches have either been deleted, clipped or 
+   had their collisions disabled.
+
+Mid
+ + Gaps on side of the point have been filled with a block bullets.
+ + Little pole like object that sticks out on the ramp to the point 
+   has been removed and the ramp has been extended to the shipping crate.
+ 
