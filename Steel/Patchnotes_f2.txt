@@ -1,0 +1,37 @@
+GENERAL
+n/a
+
+BLUE SPAWN
+corrected some incorrect textures
+
+RSPAWN 1
+n/a
+
+RSPAWN 2
+n/a
+
+A
+Removed the bridge and fence on the hill
+
+B
+Reverted the sentry porch
+Reverted the extended highground
+corrected some incorrect textures
+
+C
+n/a
+
+D
+n/a
+
+E
+n/a
+
+WISHBONE
+n/a
+
+WHITEROOM
+n/a
+
+DEATH CORRIDOR
+n/a
