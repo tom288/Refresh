@@ -1,5 +1,5 @@
 GENERAL
-n/a
+Compiled with HDR and LDR lighting :)
 
 BLUE SPAWN
 corrected some incorrect textures
