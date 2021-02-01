@@ -12,26 +12,30 @@ n/a
 
 A
 Removed the bridge and fence on the hill
+Corrected clipping outside Blue spawn's windows
+Removed collsion on decorative supports
 
 B
 Reverted the sentry porch
 Reverted the extended highground
 corrected some incorrect textures
+Changed the woodplank to a ramp
+Removed collsion on decorative supports
 
 C
-n/a
+Removed collsion on decorative supports
 
 D
-n/a
+Fixed some props sticking through walls
 
 E
-n/a
+Made both sniper perch windows taller to prevent sentries being able to "headglitch"
 
 WISHBONE
 n/a
 
 WHITEROOM
-n/a
+Fixed some weird floating props
 
 DEATH CORRIDOR
 n/a
