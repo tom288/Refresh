@@ -1,0 +1,45 @@
+GENERAL
+Compiled with HDR and LDR lighting :)
+
+BLUE SPAWN
+corrected some incorrect textures
+Fixed the black brushes in the main exit
+
+RSPAWN 1
+Fixed some Z-Fighting on one of the doorframes
+
+RSPAWN 2
+n/a
+
+A
+Removed the bridge and fence on the hill
+Corrected clipping outside Blue spawn's windows
+Removed collsion on decorative supports
+
+B
+Reverted the sentry porch
+Reverted the extended highground
+corrected some incorrect textures
+Changed the woodplank to a ramp and extended the stairs on the porch to make movement more fluid around the area
+Removed collsion on decorative supports
+
+C
+Removed collsion on decorative supports
+Fixed the weird black brushes outside the play area
+adjusted the pipe outside of the play area to visually fit the theme better
+
+D
+Fixed some props sticking through walls
+Removed the last few remaining metal beams
+
+E
+Made both sniper perch windows taller to prevent sentries being able to "headglitch"
+
+WISHBONE
+Removed collsion on decorative supports
+
+WHITEROOM
+Fixed some weird floating props
+
+DEATH CORRIDOR
+n/a
