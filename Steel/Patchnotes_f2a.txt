@@ -1,0 +1,44 @@
+GENERAL
+find the dorito
+
+BLUE SPAWN
+n/a
+
+RSPAWN 1
+n/a
+
+RSPAWN 2
+n/a
+
+A
+Added textures to the tops of out of bound buildings
+
+B
+Added textures to the tops of out of bound buildings
+Plugged a hole
+Realigned the wall near highground
+Replaced the chickenwire floor near redspawn with wood
+Removed collsion on decorative supports
+Removed weird clipping near the speakers
+
+C
+Added textures to the tops of out of bound buildings
+
+D
+The rockets in the ceiling and the tape shelf no longer fade
+Removed solidity on the lamp in D+E connector (replaced this hiding spot with a ledge)
+
+E
+Clipped ceilings to prevent getting caught
+The lightswitch in heaven no longer fades
+
+WISHBONE
+Removed collsion on decorative supports
+
+WHITEROOM
+adjusted metal beams to help movement
+readded the pipes above the devider towards D
+
+DEATH CORRIDOR
+Removed solidity on a lamp
+adjusted metal beams to help movement
