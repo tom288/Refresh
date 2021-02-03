@@ -1,0 +1,77 @@
+DOWNLOAD
+
+The map has been uploaded to serveme.tf and can be selected as "koth_warmtic_f1" when renting a server.
+
+Latest update: 3/02/2021
+
+INTRODUCTION
+
+"Refresh:" is a series aimed at making maps more suitable for 6v6 and other gamemodes. We took the opportunity to use our experience to fix the issues with map geometry as well as minor aesthetic and performance improvements. We humbly invite you to try out these changes and offer your feedback, so that together we are able to increase the quality of the competitive map pool.
+
+SUMMARY
+
+Warmtic has been around a while in Highlander but we noticed it was getting quite low reviews from players in ETF2L's last poll. Most changes you'll see here aim to only improve gameplay, not change. All perch spots have been kept in, besides those above the spawn doors.
+
+CHANGES
+[spoiler]Lighting: 
+ • [url=https://i.imgur.com/8fuDCBm.jpg]HDR has been lowered slightly.[/url]
+ • Removed unnessarcy lighting left over from koth_arctic.
+
+Optimization:  
+ • Slightly better FPS (maybe lighting entities left over from koth_arctic have been removed, 
+ these are necessary anymore because the map isn't at night)
+
+Detailing :
+ • Given props that need it prop fade.
+ • Improved when props fade out.
+
+Clipping:
+ [url=https://i.imgur.com/B6yO416.jpg]• Most props/brushes that created movement issues have either been deleted, clipped or 
+   had their collisions disabled. (Perches have stayed, however perches above the spawn doors have been clipped off.)[/url]
+ • All stairs have been given blockbullets
+
+Mid:
+[url=https://i.imgur.com/OdvKhGb.jpg] • Gaps on side of the point have been filled with concrete.[/url]
+[url=https://i.imgur.com/Psd57f6.jpg] • Little pole like object that sticks out on the ramp to the point
+   has been removed and the ramp has been extended to the shipping crate.[/url]
+[url=https://i.imgur.com/XHCKrXW.jpg] • Wooden platform connecting shipping crate to balc has been smoothed and clipped.[/url]
+[url=https://i.imgur.com/zOqKuLf.jpg] • Lower has been clipped, lights have had their clipping removed.[/url]
+ • Clipped ceiling in side rooms.
+ • Fixed texture bugs
+[url=https://i.imgur.com/d4AcM6N.jpg] • Removed broken window[/url]
+
+Dropdown:
+ • Cleaned up, its still just as dangerous but you want get stuck in crouch. (possibly a controversial change, let me know what you think).
+
+Shack:
+ • Cleaned up.
+ • Ladder clipped with block bullets (wont have same issue has rc4 with getting caught).
+
+Courtyard:
+ • Sewed displacement .
+ • Filled hole in truck.
+ • Filled hole in wall next to truck.
+
+China:
+[url=https://i.imgur.com/TVtiHAE.jpg] • Hiding spot cleaned up (want feedback from spy players)
+[/url]
+Balcony:
+ • Cleaned up.
+[url=https://i.imgur.com/Oh5StKK.jpg] • Stairway to balc has been cleaned up.[/url]
+
+House:
+ • Removed broken window.
+[url=https://i.imgur.com/EVwQXCh.jpg] • Removed rubble.[/url][/spoiler]
+
+
+The full photo album can be found [url=https://imgur.com/a/dbMvaTI]here[/url]
+
+WANT TO HELP?
+
+We are currently looking for skilled mappers to join our group! We have projects currently in the works that we would love to share with you. We are proud and happy about the work we do and the impact it has on the game as we grow with it. Please add R0boprod or HOI if you'd like to work with us!
+
+SHOUT-OUTS:
+
+Jackylegs, Roboprod, Harris0n and everyone else on the Refresh Team for taking me on and helping get this map to tip-top shape.
+
+Hanz for creating Arctic and Popcorn for pushing the map further and creating Warmtic <3
