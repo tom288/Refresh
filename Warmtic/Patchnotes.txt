@@ -45,6 +45,3 @@ House:
  • Removed broken window.
  • Removed rubble.
 
-
-
-
