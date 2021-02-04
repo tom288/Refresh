@@ -1,20 +1,47 @@
-Lighting 
- + HDR has been lowered slightly
+Lighting: 
+ • HDR has been lowered slightly.
+ • Removed unnessarcy lighting left over from koth_arctic.
 
-Clipping
- + Most props/brushes that created perches or movement issues have either been deleted, clipped or 
-   had their collisions disabled.
+Optimization:  
+ • Slightly better FPS (maybe lighting entities left over from koth_arctic have been removed, 
+ these are necessary anymore because the map isn't at night)
 
-Mid
- + Gaps on side of the point have been filled with a block bullets.
- + Little pole like object that sticks out on the ramp to the point 
+Detailing :
+ • Given props that need it prop fade.
+ • Improved when props fade out.
+
+Clipping:
+ • Most props/brushes that created movement issues have either been deleted, clipped or 
+   had their collisions disabled. (Perches have stayed, however perches above the spawn doors have been clipped off.)
+ • All stairs have been given blockbullets
+
+Mid:
+ • Gaps on side of the point have been filled with concrete.
+ • Little pole like object that sticks out on the ramp to the point
    has been removed and the ramp has been extended to the shipping crate.
- + Wooden platform connecting shipping crate to balc has been smoothed and 
+ • Wooden platform connecting shipping crate to balc has been smoothed and clipped.
+ • Lower has been clipped, lights have had their clipping removed.
+ • Clipped ceiling in side rooms.
+ • Fixed texture bugs
+ • Removed broken window
 
-Courtyard
- + Sewed displacement 
- + Filled hole in truck
- + Filled hole in wall next to truck
+Dropdown:
+ • Cleaned up, its still just as dangerous but you want get stuck in crouch. (possibly a controversial change, let me know what you think).
 
-Balc
- + Cleaned up
+Shack:
+ • Cleaned up.
+ • Ladder clipped with block bullets (wont have same issue has rc4 with getting caught).
+
+Courtyard:
+ • Sewed displacement .
+ • Filled hole in truck.
+ • Filled hole in wall next to truck.
+
+Balcony:
+ • Cleaned up.
+ • Stairway to balc has been cleaned up.
+
+House:
+ • Removed broken window.
+ • Removed rubble.
+
