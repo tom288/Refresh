@@ -1,7 +1,10 @@
 Detailing :
  • Removed some of the posts on the lamps in the most gameplay heavy areas.
  • Fixed some oddities on the roofs to the side of the point.
- • Fixed miscolored mirroring in RED spawn.
+ • Fixed miscolored mirroring on RED side.
+ • Closed off an area under the main ramp to battlements.
+ • Removed some of the "warm" lighting from the windows.
+ • Fixed detailsprites.
 
 Clipping:
  • Removed the collision from several lights.
