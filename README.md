@@ -5,6 +5,8 @@ TF2 competitive maps for the Refresh: mapping project
 
 ### Gullywash - [TF2Maps](https://tf2maps.net/downloads/refresh-cp_gullywash.10615/) - [TFTV](https://www.teamfortress.tv/57897/refresh-cp-gullywash)
 
+### Steel - [TF2Maps](https://tf2maps.net/downloads/refresh-cp_steel.10850/) - [TFTV](https://www.teamfortress.tv/58369/refresh-cp-steel#1)
+
 ## Tools
 Compiling: [Compilepal](https://github.com/ruarai/CompilePal/releases)\
 Decompiling: [BSPSource](https://github.com/ata4/bspsrc/releases)
