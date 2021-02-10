@@ -1,0 +1,17 @@
+- fixed an overlapping texture issue at Red last spawn
+- changed a fire extinguishers collisions to Non-solid outside of Red last spawn
+- Moved a mop and bucked closer to the wall outside of Red last spawn
+- You can no longer be killed by the blue end capture explosion while inside a building
+- Improved bullet collision outside of the highest mine exit
+- Lowered a small healthkit close to Blue first spawn that was too high in the previous version
+- End of game explosions no longer reach indoor areas
+- Changed stair clipping from player clip to block bullets
+- Improved optimisation in the 3d skybox
+- Changed some prop stairs to brush stairs that previously stopped the player from surfing them
+- Removed clutter such as rocks/bushes that were previously not being rendered in dx80
+- Disabled shadows on the security_fence prop underneath red first spawn to create more realistic lighting
+- Added chicken wire + blockbullets to make rockets damage more predictable
+- Added blockbullets around pipes to make rockets land on them more predictable
+- Added blockbullets to close gaps inbetween fences
+-Temporarily deleted all of the occluders so they can be properly re-added at a later version
+- Added block bullets to wooden fence props around 3rd point
