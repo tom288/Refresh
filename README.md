@@ -7,6 +7,8 @@ TF2 competitive maps for the Refresh: mapping project
 
 ### Steel - [TF2Maps](https://tf2maps.net/downloads/refresh-cp_steel.10850/) - [TFTV](https://www.teamfortress.tv/58369/refresh-cp-steel#1)
 
+### Warmtic - [TF2Maps](https://tf2maps.net/downloads/warmtic.10897/) - [TFTV](https://www.teamfortress.tv/58445/refresh-koth-warmtic)
+
 ## Tools
 Compiling: [Compilepal](https://github.com/ruarai/CompilePal/releases)\
 Decompiling: [BSPSource](https://github.com/ata4/bspsrc/releases)
