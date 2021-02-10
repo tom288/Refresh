@@ -1,0 +1,53 @@
+GENERAL
+"Block Bulleted" a few stairs I missed originally
+Added some missing decals/overlays
+
+BLUE SPAWN
+Realigned some textures
+Removed solidity on the light fixtures above the B exit
+Fixed some floating lights
+Added back the track overlays
+
+RSPAWN 1
+n/a
+
+RSPAWN 2
+n/a
+
+A
+Added back the track overlays
+Clipped off under the full health shack
+Widened the stairs in the sniper perch to represent the clipbrush better
+Removed the vent above red spawn
+
+B
+Replaced the clip brushes with block bullet brushes on the ladder walkways
+Clipped off the shed at the end of the ladder walkway
+Corrected some detailing
+Added back the track overlays
+Removed the new doorway in dropdown
+
+C
+Fix clipping around the doorway leading the the large pack
+Added clipping to the doorway leading to the balcony
+Changed the step to a ramp
+Reverted the balcony 
+
+D
+The rockets in the ceiling and the tape shelf no longer fade
+Removed solidity on the lamp in D+E connector (replaced this hiding spot with a ledge)
+Removed the windows looking at heaven through the connector
+
+E
+Added clipping to the lower C stairs doorway
+Added clipping to the left spawn door (red spawn 2)
+Closed off some holes so splash acts properly around the control point pit
+
+WISHBONE
+N/A
+
+WHITEROOM
+N/A
+
+DEATH CORRIDOR
+N/A
