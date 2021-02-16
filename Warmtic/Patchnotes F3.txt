@@ -1,0 +1,16 @@
+Detailing :
+ • Fixed a hole in the displacements on the left side of the house.
+ • Improved the ground texture in the 3D Skybox.
+ • Removed the lamps by the catwalk.
+ • Tweaked some prop fade times.
+
+Clipping:
+ • Clipped the far left pole when entering yard.
+ • Added blockbullets to the corners of the room at the bottom of the stairs.
+ • Fixed an asymmetry at the edges of the tunnel entrance.
+ • Smoothed the blockbullets on the catwalk fence.
+ • Clipped the pole by the left route from spawn.
+ • Clipped around the box in banana.
+
+Mid:
+ • Lowered the top crates on mid to cover up a crack shot.

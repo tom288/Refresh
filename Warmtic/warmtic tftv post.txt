@@ -1,18 +1,18 @@
-DOWNLOAD
+[b][url=https://tf2maps.net/downloads/warmtic.10897/]DOWNLOAD[/url][/b]
 
-The map has been uploaded to serveme.tf and can be selected as "koth_warmtic_f1" when renting a server.
+The map has been uploaded to serveme.tf and can be selected as "koth_warmtic_f2a" when renting a server.
+Latest update: 2021-02-07
 
-Latest update: 3/02/2021
-
-INTRODUCTION
+[b]INTRODUCTION[/b]
 
 "Refresh:" is a series aimed at making maps more suitable for 6v6 and other gamemodes. We took the opportunity to use our experience to fix the issues with map geometry as well as minor aesthetic and performance improvements. We humbly invite you to try out these changes and offer your feedback, so that together we are able to increase the quality of the competitive map pool.
 
-SUMMARY
+[b]SUMMARY[/b]
 
-Warmtic has been around a while in Highlander but we noticed it was getting quite low reviews from players in ETF2L's last poll. Most changes you'll see here aim to only improve gameplay, not change. All perch spots have been kept in, besides those above the spawn doors.
+Warmtic has been around a while in Highlander but we noticed it was getting quite low reviews from players in ETF2L's last poll. Most changes you'll see here aim to only improve gameplay, not change. Most hiding/perch spots have been left in.
 
-CHANGES
+[b]CHANGES[/b]
+F1:
 [spoiler]Lighting: 
  • [url=https://i.imgur.com/8fuDCBm.jpg]HDR has been lowered slightly.[/url]
  • Removed unnessarcy lighting left over from koth_arctic.
@@ -53,25 +53,42 @@ Courtyard:
  • Filled hole in wall next to truck.
 
 China:
-[url=https://i.imgur.com/TVtiHAE.jpg] • Hiding spot cleaned up (want feedback from spy players)
-[/url]
+[url=https://i.imgur.com/TVtiHAE.jpg] • Hiding spot cleaned up (want feedback from spy players)[/url]
+
 Balcony:
  • Cleaned up.
 [url=https://i.imgur.com/Oh5StKK.jpg] • Stairway to balc has been cleaned up.[/url]
 
 House:
  • Removed broken window.
-[url=https://i.imgur.com/EVwQXCh.jpg] • Removed rubble.[/url][/spoiler]
+[url=https://i.imgur.com/EVwQXCh.jpg] • Removed rubble.[/url]
 
 
 The full photo album can be found [url=https://imgur.com/a/dbMvaTI]here[/url]
+[/spoiler]
 
-WANT TO HELP?
+F2a:
+[spoiler]
+Detailing :
+[url=https://i.imgur.com/jOBhsWz.jpg] • Removed some of the posts on the lamps in the most gameplay heavy areas.[/url]
+[url=https://i.imgur.com/XV5kPer.jpg] • Fixed some oddities on the roofs to the side of the point.[/url]
+[url=https://i.imgur.com/IbIcqJQ.jpg] • Fixed miscolored mirroring on RED side.[/url]
+[url=https://i.imgur.com/MTflyKC.jpg] • Closed off an area under the main ramp to battlements.[/url]
+[url=https://i.imgur.com/SihJ89W.jpg] • Removed some of the "warm" lighting from the windows.[/url]
+[url=https://i.imgur.com/AdH6MOM.jpg] • Fixed detailsprites.[/url]
 
-We are currently looking for skilled mappers to join our group! We have projects currently in the works that we would love to share with you. We are proud and happy about the work we do and the impact it has on the game as we grow with it. Please add R0boprod or HOI if you'd like to work with us!
+Clipping:
+[url=https://i.imgur.com/rA0dw7i.jpg] • Removed the collision from several lights.[/url]
+[url=https://i.imgur.com/LG9PneM.jpg] • Improved the clipping around the unusable door in the house.[/url]
 
-SHOUT-OUTS:
+[url=https://imgur.com/a/o47pDj5]An album of all the changes.[/url]
+[/spoiler]
 
-Jackylegs, Roboprod, Harris0n and everyone else on the Refresh Team for taking me on and helping get this map to tip-top shape.
+[b]WANT TO HELP?[/b]
 
-Hanz for creating Arctic and Popcorn for pushing the map further and creating Warmtic <3
+We are currently looking for skilled mappers to join our group! We have projects currently in the works that we would love to share with you. We are proud and happy about the work we do and the impact it has on the game as we grow with it. Check out [url=https://www.teamfortress.tv/58315/refresh-recruitment]this thread[/url] for more information.
+
+[b]CONTRIBUTORS:[/b]
+
+Hanz for Arctic, Popcorp for Warmtic, and Skaz for F1
+Jackylegs, Roboprod, Harris0n and the Refresh Team
