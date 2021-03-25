@@ -1,0 +1,16 @@
+Detailing :
+ • Added more consistent patches under health and ammo.
+ • Fixed some minor visual bugs with the ground textures.
+ • Closed a gap between the concrete area and the raised middle point.
+ • Fixed a bug preventing bullet decals on some of the concrete floors.
+ • Fixed some asymmetry.
+
+Clipping:
+ • Updated the clipping on a set of boxes that looked climbable to be climable.
+ • Moved the lamp and barrel near the left spawn route.
+ • Moved the crate next to the left stairs to not catch projectiles.
+ • Improved the clipping on some of the unusuable doors.
+
+Gameplay:
+ • Removed a crack shot next to the crates and little dropdown on mid.
+ • Fixed a bug where you could use the resupply bind outside the enemy’s spawn.

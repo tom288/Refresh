@@ -1,7 +1,7 @@
 [b][url=https://tf2maps.net/downloads/warmtic.10897/]DOWNLOAD[/url][/b]
 
-The map has been uploaded to serveme.tf and can be selected as "koth_warmtic_f2a" when renting a server.
-Latest update: 2021-02-07
+The map has been uploaded to serveme.tf and can be selected as "koth_warmtic_f3" when renting a server.
+Latest update: 2021-02-16
 
 [b]INTRODUCTION[/b]
 
@@ -12,6 +12,43 @@ Latest update: 2021-02-07
 Warmtic has been around a while in Highlander but we noticed it was getting quite low reviews from players in ETF2L's last poll. Most changes you'll see here aim to only improve gameplay, not change. Most hiding/perch spots have been left in.
 
 [b]CHANGES[/b]
+F3:
+[spoiler]
+Detailing :
+ • Fixed a hole in the displacements on the left side of the house.
+ • Improved the ground texture in the 3D Skybox.
+ • Removed the lamps by the catwalk.
+ • Tweaked some prop fade times.
+
+Clipping:
+ • Clipped the far left pole when entering yard.
+ • Added blockbullets to the corners of the room at the bottom of the stairs.
+ • Fixed an asymmetry at the edges of the tunnel entrance.
+ • Smoothed the blockbullets on the catwalk fence.
+ • Clipped the pole by the left route from spawn.
+ • Clipped around the box in banana.
+
+Mid:
+ • Lowered the top crates on mid to cover up a crack shot.
+[/spoiler]
+
+F2a:
+[spoiler]
+Detailing :
+[url=https://i.imgur.com/jOBhsWz.jpg] • Removed some of the posts on the lamps in the most gameplay heavy areas.[/url]
+[url=https://i.imgur.com/XV5kPer.jpg] • Fixed some oddities on the roofs to the side of the point.[/url]
+[url=https://i.imgur.com/IbIcqJQ.jpg] • Fixed miscolored mirroring on RED side.[/url]
+[url=https://i.imgur.com/MTflyKC.jpg] • Closed off an area under the main ramp to battlements.[/url]
+[url=https://i.imgur.com/SihJ89W.jpg] • Removed some of the "warm" lighting from the windows.[/url]
+[url=https://i.imgur.com/AdH6MOM.jpg] • Fixed detailsprites.[/url]
+
+Clipping:
+[url=https://i.imgur.com/rA0dw7i.jpg] • Removed the collision from several lights.[/url]
+[url=https://i.imgur.com/LG9PneM.jpg] • Improved the clipping around the unusable door in the house.[/url]
+
+[url=https://imgur.com/a/o47pDj5]An album of all the changes.[/url]
+[/spoiler]
+
 F1:
 [spoiler]Lighting: 
  • [url=https://i.imgur.com/8fuDCBm.jpg]HDR has been lowered slightly.[/url]
@@ -65,23 +102,6 @@ House:
 
 
 The full photo album can be found [url=https://imgur.com/a/dbMvaTI]here[/url]
-[/spoiler]
-
-F2a:
-[spoiler]
-Detailing :
-[url=https://i.imgur.com/jOBhsWz.jpg] • Removed some of the posts on the lamps in the most gameplay heavy areas.[/url]
-[url=https://i.imgur.com/XV5kPer.jpg] • Fixed some oddities on the roofs to the side of the point.[/url]
-[url=https://i.imgur.com/IbIcqJQ.jpg] • Fixed miscolored mirroring on RED side.[/url]
-[url=https://i.imgur.com/MTflyKC.jpg] • Closed off an area under the main ramp to battlements.[/url]
-[url=https://i.imgur.com/SihJ89W.jpg] • Removed some of the "warm" lighting from the windows.[/url]
-[url=https://i.imgur.com/AdH6MOM.jpg] • Fixed detailsprites.[/url]
-
-Clipping:
-[url=https://i.imgur.com/rA0dw7i.jpg] • Removed the collision from several lights.[/url]
-[url=https://i.imgur.com/LG9PneM.jpg] • Improved the clipping around the unusable door in the house.[/url]
-
-[url=https://imgur.com/a/o47pDj5]An album of all the changes.[/url]
 [/spoiler]
 
 [b]WANT TO HELP?[/b]
