@@ -3,6 +3,7 @@ Detailing :
  • Fixed some minor visual bugs with the ground textures.
  • Closed a gap between the concrete area and the raised middle point.
  • Fixed a bug preventing bullet decals on some of the concrete floors.
+ • Flattened out some of the ground by dropdown.
  • Fixed some asymmetry.
 
 Clipping:
@@ -14,3 +15,6 @@ Clipping:
 Gameplay:
  • Removed a crack shot next to the crates and little dropdown on mid.
  • Fixed a bug where you could use the resupply bind outside the enemy’s spawn.
+
+Optimization:
+Fixed a bug which allowed you to see through the flank wall from some positions.
