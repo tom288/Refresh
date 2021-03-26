@@ -15,6 +15,7 @@ Clipping:
 Gameplay:
  • Removed a crack shot next to the crates and little dropdown on mid.
  • Fixed a bug where you could use the resupply bind outside the enemy’s spawn.
+ • Made the point hologram invisible.
 
 Optimization:
-Fixed a bug which allowed you to see through the flank wall from some positions.
+ • Fixed a bug which allowed you to see through the flank wall from some positions.
