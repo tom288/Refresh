@@ -4,6 +4,7 @@ Detailing :
  • Closed a gap between the concrete area and the raised middle point.
  • Fixed a bug preventing bullet decals on some of the concrete floors.
  • Flattened out some of the ground by dropdown.
+ • General visual tweaks and improvements.
  • Fixed some asymmetry.
 
 Clipping:
