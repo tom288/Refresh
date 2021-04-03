@@ -8,7 +8,7 @@ Detailing :
  • Fixed some asymmetry.
 
 Clipping:
- • Updated the clipping on a set of boxes that looked climbable to be climable.
+ • Updated the clipping on a set of boxes that looked climbable to be climbable.
  • Moved the lamp and barrel near the left spawn route.
  • Moved the crate next to the left stairs to not catch projectiles.
  • Improved the clipping on some of the unusuable doors.

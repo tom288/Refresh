@@ -1,0 +1,37 @@
+"VertexLitGeneric"
+{
+
+	<dx90_20b
+		{
+			"$fallbackmaterial" "models/props_ashville/cap_point_base_blue_dx80"
+		}
+
+	"$basetexture" "models/props_ashville/cap_point_base_blue"
+	"$bumpmap" "models/props_ashville/cap_point_base_normal"
+
+	"$selfillum" "1"
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1" 
+	"$envmaptint" "[1 1 1]"
+
+
+
+	//"$rimlight" "1"
+	//"$rimlightboost" "5"
+	//"$rimlightexponent" "10"
+
+	// Use separate self-illum mask on DX9 or later hardware
+	">=dx90_20b"
+	{
+		"$basetexture" 		"models/props_ashville/cap_point_base_blue_noalpha"
+		"$selfillummask" 	"models/props_ashville/cap_point_base_selfillum"
+	}
+
+	// Use redundant self-illum in base alpha on Pre DX9 hardware
+	"<dx90_20b"
+	{
+		"$basetexture" 	"models/props_ashville/cap_point_base_blue_dx80"
+	}
+	
+}

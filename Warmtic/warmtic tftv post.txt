@@ -1,7 +1,7 @@
 [b][url=https://tf2maps.net/downloads/warmtic.10897/]DOWNLOAD[/url][/b]
 
-The map has been uploaded to serveme.tf and can be selected as "koth_warmtic_f3" when renting a server.
-Latest update: 2021-02-16
+The map has been uploaded to serveme.tf and can be selected as "koth_warmtic_f4" when renting a server.
+Latest update: 2021-03-28
 
 [b]INTRODUCTION[/b]
 
@@ -12,12 +12,41 @@ Latest update: 2021-02-16
 Warmtic has been around a while in Highlander but we noticed it was getting quite low reviews from players in ETF2L's last poll. Most changes you'll see here aim to only improve gameplay, not change. Most hiding/perch spots have been left in.
 
 [b]CHANGES[/b]
+F4:
+[spoiler]
+Detailing :
+ • Added more consistent [url=https://i.imgur.com/LMtxn8T.jpg]patches under health and ammo[/url].
+ • Fixed some minor visual bugs with [url=https://i.imgur.com/9l7v7Kd.jpg]the ground textures[/url].
+ • Closed [url=https://i.imgur.com/PTzXuyn.jpg]a gap[/url] between the concrete area and the raised middle point.
+ • Fixed a bug preventing bullet decals on some of the concrete floors.
+ • Flattened out [url=https://i.imgur.com/geTjJ6h.jpg]some of the ground by dropdown[/url].
+ • General visual tweaks and improvements.
+ • Fixed some asymmetry.
+
+Clipping:
+ • Updated the clipping on a set of boxes that [url=https://i.imgur.com/kNqotFJ.jpg]looked climbable[/url] to be climbable.
+ • Moved the [url=https://i.imgur.com/uGvXiZo.jpg]lamp and barrel near the left spawn route[/url].
+ • Moved [url=https://i.imgur.com/qLxnVPm.jpg]the crate next to the left stairs[/url] to not catch projectiles.
+ • Improved the clipping on some of the unuseable doors.
+
+Gameplay:
+ • Removed [url=https://i.imgur.com/Ohy5wLb.jpg]a crack shot[/url] next to the crates and little dropdown on mid.
+ • Fixed a bug where you could use the resupply bind outside the enemy’s spawn.
+ • Made the point [url=https://i.imgur.com/xP9PkZY.jpg]hologram invisible[/url].
+
+Optimization:
+ • Fixed a bug which allowed you to [url=https://i.imgur.com/apxDc1f.jpg]see through the flank wall[/url] from some positions.
+
+[url=https://imgur.com/a/sqa10Kl]An album of all the changes.[/url]
+
+[/spoiler]
+
 F3:
 [spoiler]
 Detailing :
- • Fixed a hole in the displacements on the left side of the house.
+ • Fixed [url=https://i.imgur.com/EID4VCE.jpg]a hole in the displacements[/url] on the left side of the house.
  • Improved the ground texture in the 3D Skybox.
- • Removed the lamps by the catwalk.
+ • Removed [url=https://i.imgur.com/KMhsXkz.jpg]the lamps by the catwalk[/url].
  • Tweaked some prop fade times.
 
 Clipping:
@@ -29,8 +58,12 @@ Clipping:
  • Clipped around the box in banana.
 
 Mid:
- • Lowered the top crates on mid to cover up a crack shot.
+ • Lowered the top crates on mid to [url=https://i.imgur.com/5qPXmms.jpg]cover up a crack shot[/url].
+
+[url=https://imgur.com/a/YQYV0g2]An album of all the changes.[/url]
+
 [/spoiler]
+
 
 F2a:
 [spoiler]
@@ -111,4 +144,5 @@ We are currently looking for skilled mappers to join our group! We have projects
 [b]CONTRIBUTORS:[/b]
 
 Hanz for Arctic, Popcorp for Warmtic, and Skaz for F1
+Alistor for the [url=https://gamebanana.com/skins/82149]control point skin[/url].
 Jackylegs, Roboprod, Harris0n and the Refresh Team

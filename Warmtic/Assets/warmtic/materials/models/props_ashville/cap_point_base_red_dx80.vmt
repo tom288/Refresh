@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+
+	"$basetexture" "models/props_ashville/cap_point_base_red"
+	"$selfillum" "1"
+	
+	
+}
