@@ -1,5 +1,0 @@
-Detailing :
- • Changed the control point model.
-
-Gameplay:
- • Fixed a hole in the fence on BLU side by the window.
