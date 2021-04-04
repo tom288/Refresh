@@ -1,5 +1,9 @@
 Detailing :
  • Changed the control point model.
+ • Minor visual tweaks.
+
+Lighting:
+ • Brightened red side behind the crate doorway.
 
 Gameplay:
  • Fixed a hole in the fence on BLU side by the window.

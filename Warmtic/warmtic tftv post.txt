@@ -1,7 +1,7 @@
 [b][url=https://tf2maps.net/downloads/warmtic.10897/]DOWNLOAD[/url][/b]
 
-The map has been uploaded to serveme.tf and can be selected as "koth_warmtic_f4" when renting a server.
-Latest update: 2021-03-28
+The map has been uploaded to serveme.tf and can be selected as "koth_warmtic_f5" when renting a server.
+Latest update: 2021-04-03
 
 [b]INTRODUCTION[/b]
 
@@ -12,6 +12,19 @@ Latest update: 2021-03-28
 Warmtic has been around a while in Highlander but we noticed it was getting quite low reviews from players in ETF2L's last poll. Most changes you'll see here aim to only improve gameplay, not change. Most hiding/perch spots have been left in.
 
 [b]CHANGES[/b]
+[spoiler]
+Detailing :
+• Changed the [url=https://i.imgur.com/lSvOVKN.png]control point model[/url].
+• Minor visual changes.
+
+Lighting:
+ • Brightened red side [url=https://i.imgur.com/EA8rEQy.jpg]behind the crate doorway[/url].
+
+Gameplay:
+• Fixed a hole in the fence on BLU side by the window.
+• Removed many of the light poles in the spawn areas.
+[/spoiler]
+
 F4:
 [spoiler]
 Detailing :
