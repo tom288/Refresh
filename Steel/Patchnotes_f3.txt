@@ -1,8 +1,9 @@
 GENERAL
-Restarted the project from scratch in order to refocus  the refresh vision.
-All gameplay changes have been reverted.
+Restarted the project from scratch in order to refocus the refresh vision.
+All major gameplay changes have been reverted.
 "Block Bulleted" a few stairs I missed originally.
 Added and corrected all decals/overlays.
+Removed some visual edits such as the wall on C
 
 BLUE SPAWN
 Realigned some textures.
@@ -11,7 +12,7 @@ Fixed some floating lights.
 Added back the track overlays.
 
 RSPAWN 1
-n/a
+We decided to keep the reworked "chicken wire room" in as it helps players navigate the area
 
 RSPAWN 2
 n/a
@@ -36,7 +37,6 @@ Changed the step to a ramp.
 Reverted the balcony.
 
 D
-The rockets in the ceiling and the tape shelf no longer fade.
 Removed solidity on the lamp in D+E connector (replaced this hiding spot with a ledge).
 Removed the windows looking at heaven through the connector.
 
