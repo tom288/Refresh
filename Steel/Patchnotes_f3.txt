@@ -1,53 +1,53 @@
 PATHNOTES
 
 GENERAL
-1converted all stair clip brushes to block bullet
+converted all stair clip brushes to block bullet
 replaced the vault door models with an updated
-2fixed several visual holes outside of the map
-3updated clipping on some props to assist in movement
+fixed several visual holes outside of the map
+updated clipping on some props to assist in movement
 filled in some decorative holes to make projectile splash more consistent
 removed the majority of gameplay changes left over from cp_steel_pro
 restarted the project in order to realign how we tackle the project. When this project began we started basing the refresh version off of a pro version I was working on. This meant there was some more controversial changes that some people did not care for, the team has thoroughly discussed what angle is best for the project and have decided it would be best to start again and only reimpliment changes that the community would be most in favour of
-4correctly added all decals back
+correctly added all decals back
 
 A SITE
 removed the glass in in the stairwell exit
 added the beams back to the control point
 added the crane back to the control point
-5reworked the solidity under the ammo catwalk (where the barrel used to be)
+reworked the solidity under the ammo catwalk (where the barrel used to be)
 reverted the stairwell to the E sniper perch to be like original steel
 
 B SITE
 reverted the A-B dropdown
-6reworked the clipping on the ladders around the A-B dropdown
+reworked the clipping on the ladders around the A-B dropdown
 reverted the stairwell up to the patio
 reverted the windows in the stairwell
-7reapproached how the fence on the patio was handled
-8fixed movement around the shed on the patio
+reapproached how the fence on the patio was handled
+fixed movement around the shed on the patio
 reverted the Redspawn dropdown (removed the new exit)
-9fixed movement around the redspawn/BEC connector area
-10removed the giant decorative pipe
-11removed the decorative porch
+fixed movement around the redspawn/BEC connector area
+removed the giant decorative pipe
+removed the decorative porch
 reverted the sentry porch 
 added back the decorative rocks in the B-C connector
-12reworked the stairs and ramps in the B-spawn exit for red
+reworked the stairs and ramps in the B-spawn exit for red
 
 C SITE
 reverted the widening of the BEC exit to keep the skilljump
 removed the 3rd window
-13cleaned up movement on the lower concrete
-14adjusted the bridge from C-Red Spawn to catch splash correctly
+cleaned up movement on the lower concrete
+adjusted the bridge from C-Red Spawn to catch splash correctly
 
 D SITE
 reverted the widening of the balcony exit
-15adjusted the clipping under the staircase so that the skill jump is still possible (splash will still work correctly)
+adjusted the clipping under the staircase so that the skill jump is still possible (splash will still work correctly)
 removed the windows in the D-E connector
 reverted the hiding spot change in the D-E connector
 
 E SITE
 reverted sniper windows
-16properly clipped up around the inside of the point
-17adjusted the fences under heaven so splash is treated properly
+properly clipped up around the inside of the point
+adjusted the fences under heaven so splash is treated properly
 reverted the stairwell chickenwire
 
 BEC/WISHBONE
@@ -57,18 +57,18 @@ DEATH CORRIDOR
 reverted back to the bankvault doors
 
 WHITE ROOM
-18added block bullets under the medium packs in A-E
-19cleaned up some props to make movement more clean
+added block bullets under the medium packs in A-E
+cleaned up some props to make movement more clean
 
 BLUE SPAWN
-20adjusted clutter in the upper spawn
+adjusted clutter in the upper spawn
 removed solidity on all the lights
 reverted the exit in the A staircase
-22removed the ability to shoot into blue spawn from A
+removed the ability to shoot into blue spawn from A
 
 RED SPAWN 1
 removed solidity on a bunch of props
-23cleaned up some props to make movement more clean
+cleaned up some props to make movement more clean
 
 RED SPAWN 2
 removed solidity on overhead lights
