@@ -1,0 +1,82 @@
+GENERAL
+Quieter Ambient noises (including PCs in wishbone, spawn and white room)
+All Circular doors have had their models updated
+Fixed clipping on all stairs to catch splash correctly
+Removed solidity on lamps, light fixtures and other details that interfere with gameplay
+Removed unfair/unbalanced hiding spots (hiding on lamps, pixel walks, etc)
+Fixed some props fading out too early
+
+BLUE SPAWN
+Added block bullet clipping to the decorative orange grate on the upper ground
+Added textures to previously untextured areas
+Corrected some incorrect textures
+
+RSPAWN 1
+Fixed resupply cabinet hitboxes
+Decluttered
+Removed Ceiling Beams
+Fixed some Z-Fighting on one of the doorframes
+
+RSPAWN 2
+Decluttered
+Removed Ceiling Beams
+
+A
+Removed the pipes above the hill and the full health pack
+Solidity under ramps and walkway on A
+Removed the barrel
+Removed Ceiling Beams in the sniper perch (overlooking E)
+Patched the hole in hill/red spawn
+Blocked the hole above red spawn from A
+Removed collsion on decorative supports
+Added textures to the tops of out of bound buildings
+
+B
+Removed the pixel sniper angle through the window
+Removed the pixel walk along the fence on highground
+Corrected the clipping at the top of the red barn to prevent players from hitting their head
+Changed the woodplank to a ramp and extended the stairs on the porch to make movement more fluid around the area
+Extended the new ramp so sniper can look through windows easier
+Reworked outside B spawn to make navigation easier
+Corrected clipping in B-C outdoor connector
+Removed the pipe above the C+E outdoor Connector
+Solidity under porch in B-C outdoor connector
+Solidity under stairs on B's sentry porch
+Corrected some incorrect textures
+Corrected some props fading too soon
+Removed collsion on decorative supports
+Added textures to the tops of out of bound buildings
+
+C
+Fenced off under C to catch splash correctly
+Removed collsion on decorative supports
+adjusted the pipe outside of the play area to visually fit the theme better
+Added textures to the tops of out of bound buildings
+
+D
+Removed the pixel walk on the fence above the control point
+Added block bullet clipping to the decorative orange door on the upper ground
+Removed Ceiling Beams
+Corrected some props fading too soon
+Added ramps to the control point to catch splash better
+Removed collsion on decorative supports
+Fixed some props sticking through walls
+
+E
+Removed a gap between Wishbone staircase and outside Red 2nd Spawn (underheaven) that could be shot through
+Added solidity under stairs in Heaven
+Remade stairs outside Red's 1st Spawn (and added solidity under them)
+Removed collsion on decorative supports
+
+WISHBONE/BEC
+Added a fence in front of the barrels to catch splash better
+Prevented shooting through the small hole in the window
+Removed collsion on decorative supports
+
+WHITEROOM
+Prevented shooting through the small hole in the window
+Removed Ceiling Beams
+Solidity under stairs Leading to D
+
+DEATH CORRIDOR
+Cleared clutter on death corridor's ceilings (generally removing the clipping on the props above)
