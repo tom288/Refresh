@@ -1,0 +1,10 @@
+Detailing :
+ • Fixed a misaligned texture.
+
+Clipping:
+ • Fixed the clipping around the fence on BLU side.
+ • Made a few props non-solid.
+ • Changed the fence type under the big ramp.
+
+Optimization:
+ • Fixed a barrel's fad time.
