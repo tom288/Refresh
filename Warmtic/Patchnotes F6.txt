@@ -1,10 +1,12 @@
 Detailing :
  • Fixed a misaligned texture.
+ • Added glass in front of the computer panels above the crates.
 
 Clipping:
  • Fixed the clipping around the fence on BLU side.
  • Made a few props non-solid.
  • Changed the fence type under the big ramp.
+ • Added a blockbullet for the openings of the elbow doors.
 
 Optimization:
  • Fixed a barrel's fad time.
