@@ -9,6 +9,7 @@ Clipping:
  • Changed the fence type under the big ramp.
  • Added a blockbullet for the openings of the elbow doors.
  • Changed some clipping to blockbullets in the elbows.
+ • Changed some clipping to blockbullets on the floor entrance to yard.
 
 Optimization:
  • Fixed a barrel's fad time.
