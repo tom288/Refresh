@@ -9,3 +9,4 @@ Optimization:
 
 Gameplay:
  • Changed the ordering of the spawn points.
+ • Fixed an issue with the point activation voice lines.
