@@ -9,6 +9,8 @@ TF2 competitive maps for the Refresh: mapping project
 
 ### Warmtic - [TF2Maps](https://tf2maps.net/downloads/warmtic.10897/) - [TFTV](https://www.teamfortress.tv/58445/refresh-koth-warmtic)
 
+### Borneo - [TF2maps](https://tf2maps.net/downloads/refresh-pl_borneo.11835/) - [TFTV](https://www.teamfortress.tv/60324/refresh-pl-borneo) - [Album](https://github.com/tom288/Refresh/blob/master/Borneo/Borneo_F1_Changelog.md)
+
 ## Tools
 Compiling: [Compilepal](https://github.com/ruarai/CompilePal/releases)\
 Decompiling: [BSPSource](https://github.com/ata4/bspsrc/releases)
