@@ -50,6 +50,10 @@
 
 ![20200603150821_1](https://i.imgur.com/cjGs5Es.png)
 -Cleared the clutter in the spiral cave.
+
+
+![20200603150821_1](https://i.imgur.com/jWOn2A8.png)
+-Fixed clipping along the walls of the cliff pack.
 ***
 
 ## 2nd
@@ -77,6 +81,10 @@
 
 ![20200603150821_1](https://i.imgur.com/WTQX2Mz.png)
 -Widened the staircase in bucket.
+
+
+![20200603150821_1](https://i.imgur.com/XFivViT.png)
+-Blockbulletted the gaps between rollercoaster's floor.
 
 
 ![20200603150821_1](https://i.imgur.com/8IsjSO3.png)
@@ -108,10 +116,14 @@
 -Removed a pixelgap between the crates commonly used by snipers.
 
 
+[20200603150821_1](https://i.imgur.com/hN8yxrl.png)
+-Fixed clipping in the ceiling of both tile rooms.
+
+
 ![20200603150821_1](https://i.imgur.com/FCgxr41.png)
 -Final explosion trigger has been reduced.
 ***
-## Blue Spawn
+## Blue Base
 
 
 ![20200603150821_1](https://i.imgur.com/tEfoe9U.png)
@@ -121,7 +133,7 @@
 ![20200603150821_1](https://i.imgur.com/uuDQHc7.png)
 -Added a resup cabinet to the upper area of blue's spawn.
 ***
-## Blue Forwards
+## Blue Cave Forwards
 
 
 ![20200603150821_1](https://i.imgur.com/V09vXZd.png)
@@ -132,12 +144,15 @@
 -Lengethened the trigger to open the door so you can no longer splash yourself on the door before opening it.\
 -Shrunk the nobuild trigger so you can build teleporters closer to the spawn door.
 ***
-## Red Spawn/Blue Forwards
+## Second Shared Forwards
 
 
 ![20200603150821_1](https://i.imgur.com/eCkLj4u.png)
 -Religned spawnpoints so spawning no longer opens the door.
 
+
+![20200603150821_1](https://i.imgur.com/N6oGww2.png)
+-Removed the ability to resup bind against the spawn door.
 ## Red Base
 
 
