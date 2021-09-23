@@ -11,6 +11,8 @@ TF2 competitive maps for the Refresh: mapping project
 
 ### Borneo - [TF2maps](https://tf2maps.net/downloads/refresh-pl_borneo.11835/) - [TFTV](https://www.teamfortress.tv/60324/refresh-pl-borneo) - [Album](https://github.com/tom288/Refresh/blob/master/Borneo/Borneo_F1_Changelog.md)
 
+### Upward - [TF2maps](https://tf2maps.net/downloads/refresh-upward.11836/) - [TFTV](https://www.teamfortress.tv/60332/refresh-pl-upward) - [ALBUM](https://github.com/tom288/Refresh/blob/master/Upward/Upward_F1_Changelog.md)
+
 ## Tools
 Compiling: [Compilepal](https://github.com/ruarai/CompilePal/releases)\
 Decompiling: [BSPSource](https://github.com/ata4/bspsrc/releases)
