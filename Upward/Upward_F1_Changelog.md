@@ -116,7 +116,7 @@
 -Removed a pixelgap between the crates commonly used by snipers.
 
 
-[20200603150821_1](https://i.imgur.com/hN8yxrl.png)
+![20200603150821_1](https://i.imgur.com/hN8yxrl.png)
 -Fixed clipping in the ceiling of both tile rooms.
 
 
