@@ -1,0 +1,15 @@
+Detailing :
+ • Fixed a misaligned texture.
+ • Added glass in front of the computer panels above the crates.
+ • Fixed a tiny hole in the fence by the tankers.
+
+Clipping:
+ • Fixed the clipping around the fence on BLU side.
+ • Made a few props non-solid.
+ • Changed the fence type under the big ramp.
+ • Added a blockbullet for the openings of the elbow doors.
+ • Changed some clipping to blockbullets in the elbows.
+ • Changed some clipping to blockbullets on the floor entrance to yard.
+
+Optimization:
+ • Fixed a barrel's fad time.

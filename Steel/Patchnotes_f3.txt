@@ -1,55 +1,74 @@
+PATHNOTES
+
 GENERAL
-Restarted the project from scratch in order to refocus  the refresh vision.
-All gameplay changes have been reverted.
-"Block Bulleted" a few stairs I missed originally.
-Added and corrected all decals/overlays.
+converted all stair clip brushes to block bullet
+replaced the vault door models with an updated
+fixed several visual holes outside of the map
+updated clipping on some props to assist in movement
+filled in some decorative holes to make projectile splash more consistent
+removed the majority of gameplay changes left over from cp_steel_pro
+restarted the project in order to realign how we tackle the project. When this project began we started basing the refresh version off of a pro version I was working on. This meant there was some more controversial changes that some people did not care for, the team has thoroughly discussed what angle is best for the project and have decided it would be best to start again and only reimpliment changes that the community would be most in favour of
+correctly added all decals back
 
-BLUE SPAWN
-Realigned some textures.
-Removed solidity on the light fixtures above the B exit.
-Fixed some floating lights.
-Added back the track overlays.
+A SITE
+removed the glass in in the stairwell exit
+added the beams back to the control point
+added the crane back to the control point
+reworked the solidity under the ammo catwalk (where the barrel used to be)
+reverted the stairwell to the E sniper perch to be like original steel
 
-RSPAWN 1
-n/a
+B SITE
+reverted the A-B dropdown
+reworked the clipping on the ladders around the A-B dropdown
+reverted the stairwell up to the patio
+reverted the windows in the stairwell
+reapproached how the fence on the patio was handled
+fixed movement around the shed on the patio
+reverted the Redspawn dropdown (removed the new exit)
+fixed movement around the redspawn/BEC connector area
+removed the giant decorative pipe
+removed the decorative porch
+reverted the sentry porch 
+added back the decorative rocks in the B-C connector
+reworked the stairs and ramps in the B-spawn exit for red
 
-RSPAWN 2
-n/a
+C SITE
+reverted the widening of the BEC exit to keep the skilljump
+removed the 3rd window
+cleaned up movement on the lower concrete
+adjusted the bridge from C-Red Spawn to catch splash correctly
 
-A
-Added back the track overlays.
-Clipped off under the full health shack.
-Widened the stairs in the sniper perch to represent the clipbrush better.
-Removed the vent above red spawn.
+D SITE
+reverted the widening of the balcony exit
+adjusted the clipping under the staircase so that the skill jump is still possible (splash will still work correctly)
+removed the windows in the D-E connector
+reverted the hiding spot change in the D-E connector
 
-B
-Replaced the clip brushes with block bullet brushes on the ladder walkways.
-Clipped off the shed at the end of the ladder walkway.
-Corrected some detailing.
-Added back the track overlays.
-Removed the new doorway in dropdown.
+E SITE
+reverted sniper windows
+properly clipped up around the inside of the point
+adjusted the fences under heaven so splash is treated properly
+reverted the stairwell chickenwire
 
-C
-Fix clipping around the doorway leading the the large pack.
-Added clipping to the doorway leading to the balcony.
-Changed the step to a ramp.
-Reverted the balcony.
-
-D
-The rockets in the ceiling and the tape shelf no longer fade.
-Removed solidity on the lamp in D+E connector (replaced this hiding spot with a ledge).
-Removed the windows looking at heaven through the connector.
-
-E
-Added clipping to the lower C stairs doorway.
-Added clipping to the left spawn door (red spawn 2).
-Closed off some holes so splash acts properly around the control point pit.
-
-WISHBONE
-N/A
-
-WHITEROOM
-N/A
+BEC/WISHBONE
+reverted room adjustments in the B-E connector area
 
 DEATH CORRIDOR
-N/A
+reverted back to the bankvault doors
+
+WHITE ROOM
+added block bullets under the medium packs in A-E
+cleaned up some props to make movement more clean
+
+BLUE SPAWN
+adjusted clutter in the upper spawn
+removed solidity on all the lights
+reverted the exit in the A staircase
+removed the ability to shoot into blue spawn from A
+
+RED SPAWN 1
+removed solidity on a bunch of props
+cleaned up some props to make movement more clean
+
+RED SPAWN 2
+removed solidity on overhead lights

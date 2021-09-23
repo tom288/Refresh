@@ -219,8 +219,8 @@ Made the shapes above the doors solid only to stickies and pipes.\
 
 ![20200517223858_1](https://user-images.githubusercontent.com/14262648/82165465-0fcbcc80-98ad-11ea-8651-d0eb1c819ad0.jpg)
 
-Converted the existing player clipping ramps on second to blockbullets\
-Minor improvements to the stair clipping shapes\
+Converted the existing player clipping ramps on second to blockbullets.\
+Minor improvements to the stair clipping shapes.\
 `setpos 1664.692505 2372.050049 923.219910;setang 67.609863 90.000000 0.000000`
 ***
 
@@ -499,7 +499,7 @@ Added 4 units of blockbullet to this window\
 
 ![20200518003331_1](https://user-images.githubusercontent.com/14262648/82164873-b95d8e80-98aa-11ea-9f61-459640885734.jpg)
 
-Added player clipping to these corners at at 4\
+Added player clipping to these corners at 4\
 `setpos -2838.556396 -850.313843 757.823364;setang 19.008017 -76.311852 0.000000`
 ***
 
