@@ -1,7 +1,7 @@
 ## General
 
 -Reduced the fog.\
--Raised all ammo and healthpacks 16 hammer units above the floor.\
+-Raised all ammo and healthpacks 8 hammer units above the floor.\
 -Compiled the map using Fubar's BSPreveal.
 
 ![20200603150821_1](https://i.imgur.com/3oESK6f.png)
