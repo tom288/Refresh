@@ -4,8 +4,8 @@ Detailing :
 Clipping:
  • Changed some of the invisible displacements to blockbullets.
 
-Optimization:
- • 
+Lighting:
+ • Brigtened up some light around the pillars near the dropdown.
 
 Gameplay:
  • 
