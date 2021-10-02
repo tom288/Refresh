@@ -1,0 +1,12 @@
+Detailing :
+ • 
+
+Clipping:
+ • Updated the clipping so blockbullets are now visible with r_drawclipbrushes.
+ • Changed the clipping on the pillars near the point to help with splash.
+
+Optimization:
+ • 
+
+Gameplay:
+ • 

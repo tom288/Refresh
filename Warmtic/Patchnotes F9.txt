@@ -1,0 +1,11 @@
+Detailing :
+ • Thinned the pillars outside near the dropdown.
+
+Clipping:
+ • Changed some of the invisible displacements to blockbullets.
+
+Optimization:
+ • 
+
+Gameplay:
+ • 
