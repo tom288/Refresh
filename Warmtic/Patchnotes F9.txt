@@ -2,7 +2,8 @@ Detailing :
  • Thinned the pillars outside near the dropdown.
 
 Clipping:
- • Changed some of the invisible displacements to blockbullets.
+ • Changed the invisible displacements to blockbullets.
+ • Changed some of the playerclips to blockbullets.
 
 Lighting:
  • Brigtened up some light around the pillars near the dropdown.
