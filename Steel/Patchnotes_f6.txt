@@ -1,0 +1,18 @@
+PATHNOTES
+
+GENERAL
+Replaced all patch overlays under health and ammo with illusionary ones so they are always visible
+Made all chickenwire textures the same size
+
+BLUE SPAWN
+Added the arches back
+
+B SITE
+Adjusted the ladder leading to the top of the shack before the B-site
+Changed the clipping on the planks in the house on highground to a blockbullet
+Flipped the lantern in Red dropdown
+
+E SITE
+Merged all kill triggers into one in the bottom of the pit
+Increased the damage of all kill triggers from 500 to 1000 to prevent any chance of a overhealed heavy using Fists of Steel from surviving the fall
+
