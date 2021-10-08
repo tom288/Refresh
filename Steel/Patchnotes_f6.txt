@@ -10,7 +10,10 @@ Added the arches back
 B SITE
 Adjusted the ladder leading to the top of the shack before the B-site
 Changed the clipping on the planks in the house on highground to a blockbullet
+Removed solidity from the lamp in the house on highground
+Smoothed out the ground around the small ammopack near the truck
 Flipped the lantern in Red dropdown
+
 
 E SITE
 Merged all kill triggers into one in the bottom of the pit
