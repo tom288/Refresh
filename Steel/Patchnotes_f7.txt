@@ -1,0 +1,15 @@
+PATHNOTES
+
+A SITE
+Added block bullets to the front of the fence shed
+
+C SITE
+Converted some clip brushes with blockbullets along the dirt
+
+D SITE
+Raised the railing above elbow to the roof
+Adjusted the wall in the rockwall elbow to be closer to how it is in stock steel (previous version had the area thinner than stock)
+
+DEATH CORRIDOR
+Corrected clipping on the staircase
+Fixed some missaligned textures
