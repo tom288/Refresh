@@ -1,0 +1,11 @@
+Detailing :
+ • Added a bit of team colors to the sniper nests.
+
+Clipping:
+ •
+
+Lighting:
+ • 
+
+Gameplay:
+ • 
