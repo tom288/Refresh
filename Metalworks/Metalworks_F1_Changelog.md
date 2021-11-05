@@ -1,100 +1,50 @@
-# Clipping and Collision
-Made all overhead lights nonsolid\
-Made all decorative support beams nonsolid\
+Made all overhead lights nonsolid.\
+Made all decorative support beams nonsolid.\
+Corrected the shutter on Blue Second not fully opening.\
+Adjusted the arrow signs near dropdown to be mirrored.
 
 ![20200603150821_1](https://i.imgur.com/gb8mzVE.jpeg)
 
 Compiled the map using Fubar's BSPreveal.
 ***
 
-![20200603150821_1](https://i.imgur.com/alPnhex.png)
+![20200603150821_1](https://i.imgur.com/7xXfMkF.png)
 
-Added chickenwire to the picket-fences surrounding the map.
-
-# First
-
-![20200603150821_1](https://i.imgur.com/FAUZMtM.png)
-
-Added chickenwire underneath the shed outside of blue spawn
+Raised all packs to be 8 hammer units off the ground.
 ***
 
-![20200603150821_1](https://i.imgur.com/Xz6Mzby.png)
+![20200603150821_1](https://i.imgur.com/IzoEj7I.png)
 
-Added chickenwire to the trackside of the barn
+Filled decorative holes in most ceilings.
 ***
 
-![20200603150821_1](https://i.imgur.com/C5Kkhdo.png)
+![20200603150821_1](https://i.imgur.com/1v9jqmq.jpeg)
 
-Removed the holes in the wooden fences along the bridge and cliff
+Replaced the clip brushes around the last point with solid visible brushes.
 ***
 
-![20200603150821_1](https://i.imgur.com/YSFm3Ow.png)
+![20200603150821_1](https://i.imgur.com/kASWIeF.jpeg)
 
-Made the lip above the controlpoint-barn non-solid
+Filled in problematic gaps under ramps.
 ***
 
-# Second
+![20200603150821_1](https://i.imgur.com/eQgAcjV.png)
 
-![20200603150821_1](https://i.imgur.com/g7dTckO.png)
-
-Added chickenwire beneath the staircase next to corn
+Filled in most minor gaps (such as windows and between vents) with block bullet brushes.
 ***
 
-![20200603150821_1](https://i.imgur.com/sjPM6eI.png)
+![20200603150821_1](https://i.imgur.com/H62C228.jpeg)
 
-Clipped the tunnel leading to third
+Improved movement and collision around propstacks.
 ***
 
-# Third
+![20200603150821_1](https://i.imgur.com/gkqaDuG.jpeg)
 
-![20200603150821_1](https://i.imgur.com/bjPMRYR.png)
-
-Added clipping the bridge before garage
+Replaced the clipbrush behind the trucks on mid with blockbullets
 ***
 
-![20200603150821_1](https://i.imgur.com/QxrYvMY.png)
+![20200603150821_1](https://i.imgur.com/6WbAYBE.png)
+![20200603150821_1](https://i.imgur.com/4Q6BDvH.png)
 
-Removed solidity from the lights and added clipping to the underside of the catwalks
-***
-
-![20200603150821_1](https://i.imgur.com/XlFUMTa.png)
-
-Closed off the box stack on the bottom floor
-***
-
-![20200603150821_1](https://i.imgur.com/qvGGLLG.png)
-
-Cleaned up the clipping around the beams in garage
-***
-
-# Fourth/Last
-
-![20200603150821_1](https://i.imgur.com/LzJJz8O.png)
-
-Clipped between the nodes along the fence on the leftside
-***
-
-![20200603150821_1](https://i.imgur.com/eFqtyoA.png)
-
-Closed off under red spawn
-***
-
-![20200603150821_1](https://i.imgur.com/yWdKUrZ.png)
-
-Closed off under the bridge
-***
-
-![20200603150821_1](https://i.imgur.com/LFSid0N.png)
-
-Sealed all the servers so they act like a flat wall
-***
-
-![20200603150821_1](https://i.imgur.com/G3fAmGb.png)
-
-Closed off under the platform on the left route
-***
-
-![20200603150821_1](https://i.imgur.com/pNgwn9n.png)
-
-Added clipping to the windows on last
+Removed solidity from the heads of all the tall lightposts around the map
 ***
