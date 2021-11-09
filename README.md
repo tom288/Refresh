@@ -13,6 +13,8 @@ TF2 competitive maps for the Refresh: mapping project
 
 ### Upward - [TF2maps](https://tf2maps.net/downloads/refresh-upward.11836/) - [TFTV](https://www.teamfortress.tv/60332/refresh-pl-upward) - [Album](https://github.com/tom288/Refresh/blob/master/Upward/Upward_F1_Changelog.md)
 
+### Metalworks - TF2maps - TFTV - [ALBUM](https://github.com/tom288/Refresh/blob/master/Metalworks/Metalworks_F1_Changelog.md)
+
 ## Tools
 Compiling: [Compilepal](https://github.com/ruarai/CompilePal/releases)\
 Decompiling: [BSPSource](https://github.com/ata4/bspsrc/releases)
