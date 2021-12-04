@@ -13,3 +13,6 @@ Adjusted the wall in the rockwall elbow to be closer to how it is in stock steel
 DEATH CORRIDOR
 Corrected clipping on the staircase
 Fixed some missaligned textures
+
+WHITEROOM - D CONNECTOR
+Reworked the new fence over the stonewall to be accurate to stock steel
