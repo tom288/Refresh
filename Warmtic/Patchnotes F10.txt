@@ -1,11 +1,12 @@
 Detailing :
  • Added a bit of team colors to the sniper nests.
+ • Various small texture changes.
 
 Clipping:
- •
+ • Fixed a few issues with mirroring.
 
 Lighting:
- • 
+ • Improved lighting along several edges.
 
 Gameplay:
  • 
