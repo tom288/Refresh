@@ -1,0 +1,10 @@
+-Fixed a seam on last
+-Fixed a hiding spot in the tree before B.
+-Blocked the gap next to the stairs on B.
+-Thickened BLU spawn gate doors.
+-Added blockbullets along most of the walls that had playerclip.
+-Updated small amount of clipping all over the map.
+-Fixed BLU forward spawn points.
+-Removed collision on a few lights.
+-Fixed a gap next to the fence on A.
+-Added a few blockbullets on steps and edges near C.
