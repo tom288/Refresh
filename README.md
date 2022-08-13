@@ -8,7 +8,7 @@
 
 ### Process
 
-[Refresh.tf](https://refresh.tf/process) - [TF2Maps](https://tf2maps.net/downloads/refresh-cp_process.9042/) - [TFTV](https://www.teamfortress.tv/55063/refresh-cp-process) - [Album](https://github.com/tom288/Refresh/tree/master/Process/ALBUM.md)
+[Refresh.tf](https://refresh.tf/process) - [TF2Maps](https://tf2maps.net/downloads/refresh-cp_process.9042/) - [TFTV](https://www.teamfortress.tv/55063/refresh-cp-process)
 
 ### Gullywash
 
@@ -24,15 +24,15 @@
 
 ### Borneo
 
-[Refresh.tf](https://refresh.tf/borneo) - [TF2maps](https://tf2maps.net/downloads/refresh-pl_borneo.11835/) - [TFTV](https://www.teamfortress.tv/60324/refresh-pl-borneo) - [Album](https://github.com/tom288/Refresh/blob/master/Borneo/Borneo_F1_Changelog.md)
+[Refresh.tf](https://refresh.tf/borneo) - [TF2maps](https://tf2maps.net/downloads/refresh-pl_borneo.11835/) - [TFTV](https://www.teamfortress.tv/60324/refresh-pl-borneo)
 
 ### Upward
 
-[Refresh.tf](https://refresh.tf/upward) - [TF2maps](https://tf2maps.net/downloads/refresh-upward.11836/) - [TFTV](https://www.teamfortress.tv/60332/refresh-pl-upward) - [Album](https://github.com/tom288/Refresh/blob/master/Upward/Upward_F1_Changelog.md)
+[Refresh.tf](https://refresh.tf/upward) - [TF2maps](https://tf2maps.net/downloads/refresh-upward.11836/) - [TFTV](https://www.teamfortress.tv/60332/refresh-pl-upward)
 
 ### Metalworks
 
-[Refresh.tf](https://refresh.tf/metalworks) - [TF2maps](https://tf2maps.net/downloads/refresh-metalworks.11992/) - [TFTV](https://www.teamfortress.tv/60587/refresh-cp-metalworks) - [Album](https://github.com/tom288/Refresh/blob/master/Metalworks/Metalworks_F1_Changelog.md)
+[Refresh.tf](https://refresh.tf/metalworks) - [TF2maps](https://tf2maps.net/downloads/refresh-metalworks.11992/) - [TFTV](https://www.teamfortress.tv/60587/refresh-cp-metalworks)
 
 ## Credits
 
