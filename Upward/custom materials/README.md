@@ -2,4 +2,4 @@
 
 Currently the custom materials and models used in Refresh: Upward are
 
-- [Corner Resupply](https://tf2maps.net/downloads/corner-resupply-locker.1653/)
+- [Custom props ported with Propper](https://drive.google.com/drive/folders/1YUrzsZyUMpDhNB_Qb3jh9zZAoymctlkK?usp=sharing)
