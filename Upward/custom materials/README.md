@@ -2,4 +2,4 @@
 
 Currently the custom materials and models used in Refresh: Upward are
 
-- [Custom props ported with Propper]
+- Custom props ported with Propper
