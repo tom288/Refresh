@@ -1,0 +1,9 @@
+-Added a box to blu left yard to match the one on red side.
+-Closed some small clipping holes above pool building.
+-Increased visible distance on boxes behind chicken wire (affects players hiding behind them).
+-Blocked standing on the signs below the obelisks.
+-Fixed blockbullet misalignment on red battlements.
+-Fixed blockbullet misalignment on red side of pool room.
+-Removed collision of wood under ammo packs outside pool room.
+-Fixed an asymmetry in the clipping around the ammo packs outside pool room.
+-Tweaked collision on battlement fences.
