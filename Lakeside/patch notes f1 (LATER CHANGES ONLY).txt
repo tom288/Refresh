@@ -7,3 +7,4 @@
 -Removed collision of wood under ammo packs outside pool room.
 -Fixed an asymmetry in the clipping around the ammo packs outside pool room.
 -Tweaked collision on battlement fences.
+-Fixed a floating sniper spot on battlements. 
