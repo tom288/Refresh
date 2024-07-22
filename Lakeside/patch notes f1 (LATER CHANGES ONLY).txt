@@ -8,3 +8,7 @@
 -Fixed an asymmetry in the clipping around the ammo packs outside pool room.
 -Tweaked collision on battlement fences.
 -Fixed a floating sniper spot on battlements. 
+-Fixed balcony.
+-Removed the stupid fake floor, and just raised the blockbullet below it.
+-Clipped the obelisk stairs.
+-Closed the gap in the planks on battlements.
