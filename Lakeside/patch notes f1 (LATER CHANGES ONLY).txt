@@ -12,3 +12,4 @@
 -Removed the stupid fake floor, and just raised the blockbullet below it.
 -Clipped the obelisk stairs.
 -Closed the gap in the planks on battlements.
+-Made the palm trees near the obelisks more symmetrical.
