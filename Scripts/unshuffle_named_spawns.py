@@ -38,7 +38,7 @@ def unshuffle(input_path, output_path):
 
     # Collect information about various occurrences and the named spawns
     with open(input_path) as input_file:
-        patterns = [re.compile("^\s*\"%s\"\s+\".*\"\s*$" % p) for p in PROPS]
+        patterns = [re.compile("^\\s*\"%s\"\\s+\".*\"\\s*$" % p) for p in PROPS]
         in_entity = False
         bracket_level = 0
         entity_props = [None] * PROP_COUNT
@@ -89,7 +89,7 @@ def unshuffle(input_path, output_path):
         # The names can contain ints or floats but they must be at the end
         num = None
         for i in range(1, len(name) + 1):
-            try: 
+            try:
                 num = float(name[-i:])
             except ValueError:
                 break
@@ -151,10 +151,10 @@ def main():
             output_path = sys.argv[2]
         else:
             out_equals_in = True
-    
+
     # Unshuffle
     wrote = unshuffle(input_path, output_path)
-    
+
     if out_equals_in and wrote:
         backup_path = re.sub('.%s' % ext, '.backup.%s' % ext, input_path)
         if os.path.isfile(backup_path):
